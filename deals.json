@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:08:44Z",
+ "updated": "2026-11-24T03:05:00Z",
  "deals": [
   {
    "id": "fire-tv-stick-4k-plus-wi-fi-6",
@@ -12,7 +12,9 @@
    "url": "https://www.amazon.com/dp/B0F7Z4QZTT?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Tom's Guide 11/23; NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "fire-tv-stick-4k",
@@ -25,7 +27,9 @@
    "url": "https://www.amazon.com/dp/B0G4XRP464?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": true,
+   "signal": null
   },
   {
    "id": "fire-tv-stick-4k-select",
@@ -38,7 +42,9 @@
    "url": "https://www.amazon.com/dp/B0C6W3D4RM?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "fire-tv-stick-hd",
@@ -51,7 +57,9 @@
    "url": "https://www.amazon.com/dp/B0DJGDC3BD?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "fire-tv-cube-4k-wi-fi-6e",
@@ -64,7 +72,9 @@
    "url": "https://www.amazon.com/dp/B09BZZ3MM7?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kindle-paperwhite-16gb-2024",
@@ -77,7 +87,9 @@
    "url": "https://www.amazon.com/dp/B0CFPJYX7P?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "echo-show-8",
@@ -90,7 +102,9 @@
    "url": "https://www.amazon.com/dp/B0DC8ZMR1P?tag=smartkosher-20",
    "confirmed": false,
    "source": "Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "echo-dot",
@@ -103,7 +117,9 @@
    "url": "https://www.amazon.com/s?k=Echo+Dot&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "echo-studio",
@@ -116,7 +132,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Echo+Studio&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "echo-time",
@@ -129,7 +147,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Echo+Time&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "amazon-alexa-tablet-8-64gb",
@@ -142,7 +162,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Alexa+Tablet+8&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "amazon-alexa-tablet-11-64gb",
@@ -155,7 +177,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Alexa+Tablet+11&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23; 9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "alexa-photo-frame",
@@ -168,7 +192,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Alexa+Photo+Frame&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ring-floodlight-cam-wired-plus",
@@ -181,7 +207,9 @@
    "url": "https://www.amazon.com/dp/B08F6GPQQ7?tag=smartkosher-20",
    "confirmed": false,
    "source": "Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ring-battery-doorbell",
@@ -194,7 +222,9 @@
    "url": "https://www.amazon.com/s?k=Ring+Battery+Doorbell&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "blink-outdoor-4-camera",
@@ -207,7 +237,9 @@
    "url": "https://www.amazon.com/s?k=Blink+Outdoor+4&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "blink-mini-2k",
@@ -220,7 +252,9 @@
    "url": "https://www.amazon.com/s?k=Blink+Mini+2K%2B&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ring-solar-pathlight",
@@ -233,7 +267,9 @@
    "url": "https://www.amazon.com/s?k=Ring+Solar+Pathlight&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "tile-bluetooth-tracker-2-pack",
@@ -246,7 +282,9 @@
    "url": "https://www.amazon.com/dp/B0D63573CF?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kasa-smart-plug-mini-with-energy-monitoring-4-pack",
@@ -259,7 +297,9 @@
    "url": "https://www.amazon.com/dp/B0B14C719T?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "tp-link-wi-fi-extender-with-ethernet-port",
@@ -272,7 +312,9 @@
    "url": "https://www.amazon.com/dp/B07N1WW638?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "skylight-calendar",
@@ -285,7 +327,9 @@
    "url": "https://www.amazon.com/dp/B0C9V811L6?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "aura-10-inch-digital-picture-frame",
@@ -298,7 +342,9 @@
    "url": "https://www.amazon.com/dp/B0GMKR3PJ7?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "philips-hue-play-screen-sync-lights-55-65-tvs",
@@ -311,7 +357,9 @@
    "url": "https://www.amazon.com/s?k=Philips+Screen+Sync+Smart+Lighting&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "google-home-speaker",
@@ -324,7 +372,9 @@
    "url": "https://www.amazon.com/s?k=Google+Home+Speaker&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "apple-airpods-pro-3",
@@ -337,7 +387,9 @@
    "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Tom's Guide 11/23; 9to5Toys 11/23; TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": true,
+   "signal": "all-time low"
   },
   {
    "id": "apple-airpods-max-2",
@@ -350,20 +402,9 @@
    "url": "https://www.amazon.com/dp/B0GSS4SGZR?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/20; 9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
-  },
-  {
-   "id": "apple-airtag-2-1-pack",
-   "title": "Apple AirTag 2 (1-pack)",
-   "category": "Apple",
-   "price": 23.0,
-   "was": 29.0,
-   "note": "Single AirTag for keys or luggage.",
-   "condition": null,
-   "url": "https://www.amazon.com/s?k=Apple+AirTag+2&tag=smartkosher-20",
-   "confirmed": false,
-   "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "apple-pencil-usb-c",
@@ -376,7 +417,9 @@
    "url": "https://www.amazon.com/s?k=Apple+Pencil+USB-C&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "apple-watch-series-12-46mm",
@@ -389,7 +432,9 @@
    "url": "https://www.amazon.com/dp/B0HJBCGY95?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23; 9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "apple-watch-series-12-42mm",
@@ -402,7 +447,9 @@
    "url": "https://www.amazon.com/s?k=Apple+Watch+Series+12+42mm+GPS&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "apple-watch-se-3",
@@ -415,33 +462,24 @@
    "url": "https://www.amazon.com/s?k=Apple+Watch+SE+3&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
-  },
-  {
-   "id": "macbook-neo-256gb",
-   "title": "MacBook Neo (256GB)",
-   "category": "Apple",
-   "price": 649.0,
-   "was": 699.0,
-   "note": "Apple's new entry laptop, $50 off.",
-   "condition": null,
-   "url": "https://www.amazon.com/s?k=Apple+MacBook+Neo&tag=smartkosher-20",
-   "confirmed": false,
-   "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "macbook-air-13-m5-16gb-1tb",
    "title": "MacBook Air 13\" M5 (16GB, 1TB)",
    "category": "Apple",
-   "price": 1349.0,
+   "price": 1299.0,
    "was": 1599.0,
-   "note": "$250 off the 1TB MacBook Air.",
+   "note": "Now $50 lower than earlier this week, $300 off overall.",
    "condition": null,
    "url": "https://www.amazon.com/s?k=MacBook+Air+13+M5+16GB+1TB&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
   },
   {
    "id": "macbook-air-15-m5-16gb-1tb",
@@ -454,20 +492,9 @@
    "url": "https://www.amazon.com/s?k=MacBook+Air+15+M5+16GB+1TB&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
-  },
-  {
-   "id": "macbook-pro-14-m6-16gb-1tb",
-   "title": "MacBook Pro 14\" M6 (16GB, 1TB)",
-   "category": "Apple",
-   "price": 1799.0,
-   "was": 1999.0,
-   "note": "$200 off the newest 14-inch MacBook Pro.",
-   "condition": null,
-   "url": "https://www.amazon.com/s?k=MacBook+Pro+14+M6+16GB+1TB&tag=smartkosher-20",
-   "confirmed": false,
-   "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ipad-mini-oled-a20-pro-128gb",
@@ -480,7 +507,9 @@
    "url": "https://www.amazon.com/s?k=iPad+mini+A20+Pro+128GB&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "beats-360-over-ear-headphones",
@@ -493,7 +522,9 @@
    "url": "https://www.amazon.com/dp/B0HBZPBVQJ?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/20; 9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "bose-quietcomfort-headphones",
@@ -506,7 +537,9 @@
    "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Headphones&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sennheiser-momentum-4-wireless",
@@ -519,7 +552,9 @@
    "url": "https://www.amazon.com/s?k=Sennheiser+Momentum+4+Wireless&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "nothing-headphone-a",
@@ -532,7 +567,9 @@
    "url": "https://www.amazon.com/dp/B0G6LCC42J?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sony-wf-c510-wireless-earbuds",
@@ -545,7 +582,9 @@
    "url": "https://www.amazon.com/dp/B0D9R4GYTN?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "jbl-charge-6-speaker",
@@ -558,7 +597,9 @@
    "url": "https://www.amazon.com/dp/B0DN2ZCZX6?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "jbl-flip-7-speaker",
@@ -571,7 +612,9 @@
    "url": "https://www.amazon.com/dp/B0DMYQ32SC?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "bose-soundlink-micro",
@@ -584,7 +627,9 @@
    "url": "https://www.amazon.com/s?k=Bose+SoundLink+Micro&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ultimate-ears-wonderboom-4",
@@ -597,7 +642,9 @@
    "url": "https://www.amazon.com/dp/B0H1PZ6JCQ?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "twelve-south-airfly-pro-2",
@@ -610,7 +657,9 @@
    "url": "https://www.amazon.com/dp/B0DWT9FM4J?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "steelseries-arctis-nova-5-gaming-headset",
@@ -623,7 +672,9 @@
    "url": "https://www.amazon.com/s?k=SteelSeries+Arctis+Nova+5&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsung-65-s85h-oled-tv-2026",
@@ -636,7 +687,9 @@
    "url": "https://www.amazon.com/s?k=Samsung+65+S85H+OLED&tag=smartkosher-20",
    "confirmed": false,
    "source": "Slickdeals",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "tcl-75-designer-series-picture-frame-tv",
@@ -649,7 +702,9 @@
    "url": "https://www.amazon.com/s?k=TCL+75+Designer+Series+Picture+Frame+TV&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "tcl-65-designer-series-picture-frame-tv",
@@ -662,7 +717,9 @@
    "url": "https://www.amazon.com/s?k=TCL+65+Designer+Series+Picture+Frame+TV&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "amazon-ember-artline-65-4k-qled-tv",
@@ -675,7 +732,9 @@
    "url": "https://www.amazon.com/s?k=Amazon+Ember+Artline+65&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "roku-ultra",
@@ -688,7 +747,9 @@
    "url": "https://www.amazon.com/s?k=Roku+Ultra&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "roku-streaming-stick-hd",
@@ -701,7 +762,9 @@
    "url": "https://www.amazon.com/s?k=Roku+Streaming+Stick+HD&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsung-galaxy-tab-s11-128gb",
@@ -714,7 +777,9 @@
    "url": "https://www.amazon.com/dp/B0FGKCL9C2?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsung-galaxy-tab-s10-lite-128gb",
@@ -727,7 +792,9 @@
    "url": "https://www.amazon.com/dp/B0FF5JJ3CP?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-mx-mechanical-wireless-keyboard",
@@ -740,7 +807,9 @@
    "url": "https://www.amazon.com/dp/B09LK1P1RD?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-mx-keys-mini-wireless-keyboard",
@@ -753,7 +822,9 @@
    "url": "https://www.amazon.com/dp/B098JPSVKY?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-lift-vertical-ergonomic-mouse",
@@ -766,7 +837,9 @@
    "url": "https://www.amazon.com/dp/B09J1TB35S?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-mx-anywhere-3s-mouse-mac",
@@ -779,7 +852,9 @@
    "url": "https://www.amazon.com/dp/B0CVFJ1YSX?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-mx-ergo-s-trackball",
@@ -792,7 +867,9 @@
    "url": "https://www.amazon.com/dp/B0D6PTR6MP?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-ergo-m575s-trackball",
@@ -805,7 +882,9 @@
    "url": "https://www.amazon.com/dp/B0BBQ3ZYNY?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-signature-m650-l-mouse",
@@ -818,7 +897,9 @@
    "url": "https://www.amazon.com/dp/B09NQNRJTK?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "logitech-pop-compact-mouse",
@@ -831,7 +912,9 @@
    "url": "https://www.amazon.com/dp/B0BMXKR7NH?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "keychron-c2-pro-8k-keyboard",
@@ -844,7 +927,9 @@
    "url": "https://www.amazon.com/s?k=Keychron+C2+Pro+8K&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sandisk-512gb-microsd-express-card",
@@ -857,7 +942,9 @@
    "url": "https://www.amazon.com/s?k=SanDisk+512GB+microSD+Express&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsung-galaxy-s26-ultra-256gb",
@@ -870,7 +957,9 @@
    "url": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Ultra+256GB&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "google-pixel-watch-5-41mm",
@@ -883,7 +972,9 @@
    "url": "https://www.amazon.com/dp/B0H7X25DRT?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "google-pixel-watch-5-45mm",
@@ -896,7 +987,9 @@
    "url": "https://www.amazon.com/dp/B0H7WN9N17?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "oura-ring-5",
@@ -909,7 +1002,9 @@
    "url": "https://www.amazon.com/dp/B0GRK1JNHJ?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "oura-ring-5-silver",
@@ -922,7 +1017,9 @@
    "url": "https://www.amazon.com/dp/B0GRK1N94H?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "garmin-fenix-8",
@@ -935,7 +1032,9 @@
    "url": "https://www.amazon.com/s?k=Garmin+Fenix+8&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-prime-3-in-1-25w-qi2-charging-station",
@@ -948,7 +1047,9 @@
    "url": "https://www.amazon.com/dp/B0F9L265KF?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-prime-3-in-1-foldable-qi2-charger",
@@ -961,7 +1062,9 @@
    "url": "https://www.amazon.com/dp/B0FHWK3W1S?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-maggo-ufo-3-in-1-charging-station",
@@ -974,7 +1077,9 @@
    "url": "https://www.amazon.com/dp/B0D8PTGKSM?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-25-000mah-165w-laptop-power-bank",
@@ -987,7 +1092,9 @@
    "url": "https://www.amazon.com/dp/B0DMDJBCDP?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-nano-5-000mah-magsafe-power-bank",
@@ -1000,7 +1107,9 @@
    "url": "https://www.amazon.com/dp/B0F8HXYD46?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-nano-45w-usb-c-charger",
@@ -1013,7 +1122,9 @@
    "url": "https://www.amazon.com/dp/B0H7BYWCNG?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ecoflow-rapid-mag-3-in-1-qi2-charger-stand",
@@ -1026,7 +1137,9 @@
    "url": "https://www.amazon.com/dp/B0FYC96MRF?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ugreen-2-in-1-magnetic-charging-stand",
@@ -1039,7 +1152,9 @@
    "url": "https://www.amazon.com/dp/B0FXGSDNL4?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ugreen-qi2-25w-magnetic-charging-pad",
@@ -1052,7 +1167,9 @@
    "url": "https://www.amazon.com/dp/B0FWRRT3VF?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "belkin-2-in-1-qi2-25w-charging-station",
@@ -1065,7 +1182,9 @@
    "url": "https://www.amazon.com/dp/B0FMBFVD34?tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ember-mug-3-10-oz",
@@ -1078,7 +1197,9 @@
    "url": "https://www.amazon.com/dp/B0HJ95MZ6W?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "stanley-quencher-h2-0-40-oz",
@@ -1091,7 +1212,9 @@
    "url": "https://www.amazon.com/dp/B0CP9Z56SW?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ninja-air-fryer-pro-4-in-1",
@@ -1104,7 +1227,9 @@
    "url": "https://www.amazon.com/s?k=Ninja+Air+Fryer+Pro+4-in-1&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ninja-foodi-6-in-1-dualzone-air-fryer",
@@ -1117,7 +1242,9 @@
    "url": "https://www.amazon.com/s?k=Ninja+Foodi+6-in-1+DualZone+Air+Fryer&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "keurig-k-express-coffee-maker",
@@ -1130,7 +1257,9 @@
    "url": "https://www.amazon.com/dp/B09715G57M?tag=smartkosher-20",
    "confirmed": false,
    "source": "Forbes 11/23; DealNews 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "de-longhi-classic-signature-espresso-machine",
@@ -1143,7 +1272,9 @@
    "url": "https://www.amazon.com/dp/B0DQWC47JN?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "cuisinart-fusionplus-skillet-set",
@@ -1156,7 +1287,9 @@
    "url": "https://www.amazon.com/dp/B0FJHYKFCQ?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "crock-pot-on-the-go-personal-food-warmer",
@@ -1169,7 +1302,9 @@
    "url": "https://www.amazon.com/dp/B09BDGQYW5?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kitchenaid-oven-mitt-and-pot-holder-set",
@@ -1182,7 +1317,9 @@
    "url": "https://www.amazon.com/dp/B0BMKJFFP1?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kitchenaid-silicone-oven-mitts-2-pack",
@@ -1195,7 +1332,9 @@
    "url": "https://www.amazon.com/dp/B08J8F7Q61?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "hatch-restore-3-sunrise-alarm",
@@ -1208,7 +1347,9 @@
    "url": "https://www.amazon.com/dp/B0DLLSCVZW?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "roborock-q7-m5-robot-vacuum-and-mop",
@@ -1221,7 +1362,9 @@
    "url": "https://www.amazon.com/dp/B0DWX69JVG?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "shark-navigator-lift-away-upright-vacuum",
@@ -1234,7 +1377,9 @@
    "url": "https://www.amazon.com/dp/B005KMDV9A?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "shark-hydrovac-messmaster",
@@ -1247,7 +1392,9 @@
    "url": "https://www.amazon.com/s?k=Shark+HydroVac+MessMaster&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "levoit-vortexiq-cordless-vacuum",
@@ -1260,7 +1407,9 @@
    "url": "https://www.amazon.com/dp/B0GX93T8X7?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "dreo-humidifier",
@@ -1273,7 +1422,9 @@
    "url": "https://www.amazon.com/dp/B0FKTLDY1P?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "nekteck-cordless-calf-massager",
@@ -1286,7 +1437,9 @@
    "url": "https://www.amazon.com/s?k=Nekteck+AirFlow+Cordless+Calf+Massager&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "nintendo-switch-2-mario-kart-world-bundle",
@@ -1299,7 +1452,9 @@
    "url": "https://www.amazon.com/s?k=Nintendo+Switch+2+Mario+Kart+World+Bundle&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "donkey-kong-bananza-switch-2",
@@ -1312,7 +1467,9 @@
    "url": "https://www.amazon.com/s?k=Donkey+Kong+Bananza+Switch+2&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; Slickdeals",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "super-mario-party-jamboree-switch-2-edition",
@@ -1325,7 +1482,9 @@
    "url": "https://www.amazon.com/s?k=Super+Mario+Party+Jamboree+Switch+2+Edition&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kirby-air-riders-switch-2",
@@ -1338,7 +1497,9 @@
    "url": "https://www.amazon.com/s?k=Kirby+Air+Riders&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "metroid-prime-4-beyond-switch-2-edition",
@@ -1351,7 +1512,9 @@
    "url": "https://www.amazon.com/s?k=Metroid+Prime+4+Beyond+Switch+2+Edition&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "super-mario-galaxy-super-mario-galaxy-2",
@@ -1364,7 +1527,9 @@
    "url": "https://www.amazon.com/s?k=Super+Mario+Galaxy+1+2+Switch&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ps5-dualsense-wireless-controller",
@@ -1377,7 +1542,9 @@
    "url": "https://www.amazon.com/s?k=PS5+DualSense+Wireless+Controller&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23; 9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ps5-dualsense-edge-controller",
@@ -1390,7 +1557,9 @@
    "url": "https://www.amazon.com/s?k=DualSense+Edge+Wireless+Controller&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "playstation-pulse-elite-wireless-headset",
@@ -1403,7 +1572,9 @@
    "url": "https://www.amazon.com/s?k=PlayStation+PULSE+Elite&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "marvel-s-wolverine-ps5",
@@ -1416,7 +1587,9 @@
    "url": "https://www.amazon.com/s?k=Marvel%27s+Wolverine+PS5&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "marvel-s-spider-man-2-ps5",
@@ -1429,7 +1602,9 @@
    "url": "https://www.amazon.com/s?k=Marvel%27s+Spider-Man+2+PS5&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23; DealNews 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "nba-2k27-ps5",
@@ -1442,7 +1617,9 @@
    "url": "https://www.amazon.com/s?k=NBA+2K27+PS5&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "madden-nfl-27-ps5",
@@ -1455,20 +1632,24 @@
    "url": "https://www.amazon.com/s?k=Madden+NFL+27+PS5&tag=smartkosher-20",
    "confirmed": false,
    "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "saros-ps5",
    "title": "Saros (PS5)",
    "category": "Video Games",
-   "price": 39.99,
-   "was": 69.99,
-   "note": "$30 off Housemarque's new shooter.",
+   "price": 30.0,
+   "was": 70.0,
+   "note": "New PS5 action game for $30, about a quarter off.",
    "condition": null,
    "url": "https://www.amazon.com/s?k=Saros+PS5&tag=smartkosher-20",
    "confirmed": false,
-   "source": "9to5Toys 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
   },
   {
    "id": "nex-playground",
@@ -1481,7 +1662,9 @@
    "url": "https://www.amazon.com/dp/B0D2JGYX3F?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "picassotiles-100-piece-magnetic-tiles",
@@ -1494,7 +1677,9 @@
    "url": "https://www.amazon.com/dp/B00AU56C5W?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "lego-classic-medium-creative-brick-box",
@@ -1507,7 +1692,9 @@
    "url": "https://www.amazon.com/dp/B00NHQFA1I?tag=smartkosher-20",
    "confirmed": false,
    "source": "Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "lego-creator-3-in-1-forest-animals-red-fox",
@@ -1520,7 +1707,9 @@
    "url": "https://www.amazon.com/dp/B0CGY3VF3K?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "spirograph-design-set",
@@ -1533,7 +1722,9 @@
    "url": "https://www.amazon.com/dp/B009VE38D2?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "owlet-dream-sock-baby-monitor",
@@ -1546,7 +1737,9 @@
    "url": "https://www.amazon.com/dp/B09NCGQSY9?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "crest-3d-whitestrips-professional-effects",
@@ -1559,7 +1752,9 @@
    "url": "https://www.amazon.com/dp/B00AHAWWO0?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "cosrx-snail-mucin-96-serum",
@@ -1572,7 +1767,9 @@
    "url": "https://www.amazon.com/dp/B00PBX3L7K?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "medicube-zero-pore-pads-2-0",
@@ -1585,7 +1782,9 @@
    "url": "https://www.amazon.com/dp/B09V7Z4TJG?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "biodance-bio-collagen-real-deep-mask",
@@ -1598,7 +1797,9 @@
    "url": "https://www.amazon.com/dp/B0B2RM68G2?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23; TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "shark-flexstyle-hair-styler",
@@ -1611,7 +1812,9 @@
    "url": "https://www.amazon.com/dp/B0B89P16MC?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23; Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": true,
+   "signal": null
   },
   {
    "id": "dyson-airwrap-i-d-multi-styler",
@@ -1624,7 +1827,9 @@
    "url": "https://www.amazon.com/s?k=Dyson+Airwrap+i.d.&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23; NBC Select 11/23; Forbes 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "shark-depuffi",
@@ -1637,7 +1842,9 @@
    "url": "https://www.amazon.com/dp/B0FN1861NG?tag=smartkosher-20",
    "confirmed": false,
    "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "wavytalk-steamlift-pro-thermal-brush",
@@ -1650,7 +1857,9 @@
    "url": "https://www.amazon.com/s?k=Wavytalk+Steamlift+Pro&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ulike-air-10-ipl-hair-removal",
@@ -1663,7 +1872,9 @@
    "url": "https://www.amazon.com/s?k=Ulike+Air+10+IPL&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "foreo-faq-202-led-face-mask",
@@ -1676,7 +1887,9 @@
    "url": "https://www.amazon.com/s?k=Foreo+FAQ+202&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "maybelline-sky-high-washable-mascara",
@@ -1689,7 +1902,9 @@
    "url": "https://www.amazon.com/dp/B08H3JPH74?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "laura-geller-baked-balance-n-brighten-foundation",
@@ -1702,7 +1917,9 @@
    "url": "https://www.amazon.com/dp/B01H1V7WQU?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "levi-s-men-s-505-regular-fit-jeans",
@@ -1715,7 +1932,9 @@
    "url": "https://www.amazon.com/dp/B0018OFKDY?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "levi-s-318-shaping-wide-leg-jeans-women-s",
@@ -1728,7 +1947,9 @@
    "url": "https://www.amazon.com/dp/B0DJWPPW59?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "levi-s-women-s-cinch-baggy-jeans",
@@ -1741,7 +1962,9 @@
    "url": "https://www.amazon.com/dp/B0DJWPSST4?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "spanx-airessentials-crewneck-tunic",
@@ -1754,7 +1977,9 @@
    "url": "https://www.amazon.com/dp/B0FRDDL32M?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "asics-gel-kayano-30-women-s",
@@ -1767,7 +1992,9 @@
    "url": "https://www.amazon.com/s?k=Asics+Gel-Kayano+30+Women%27s&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "columbia-steens-mountain-fleece",
@@ -1780,7 +2007,9 @@
    "url": "https://www.amazon.com/s?k=Columbia+Steens+Mountain+Fleece&tag=smartkosher-20",
    "confirmed": false,
    "source": "Tom's Guide 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "fireside-by-dearfoams-shearling-scuff-slippers-women-s",
@@ -1793,7 +2022,9 @@
    "url": "https://www.amazon.com/dp/B07K32ZCHG?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "everfoams-women-s-fuzzy-slippers",
@@ -1806,20 +2037,24 @@
    "url": "https://www.amazon.com/dp/B0BYNYWKC7?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "energizer-aa-and-aaa-batteries-48-count",
    "title": "Energizer AA and AAA Batteries (48-count)",
    "category": "Household",
-   "price": 21.84,
+   "price": 18.56,
    "was": 38.98,
-   "note": "Stock up on batteries before the toy season.",
-   "condition": null,
+   "note": "A 48-pack of AA and AAA batteries for under $19. Stock up before the holidays.",
+   "condition": "Price varies by mix",
    "url": "https://www.amazon.com/dp/B087GMJXMC?tag=smartkosher-20",
    "confirmed": false,
-   "source": "NBC Select 11/23",
-   "checked": "2026-11-24T03:30:00Z"
+   "source": "DansDeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
   },
   {
    "id": "pink-miracle-shoe-cleaner-kit",
@@ -1832,20 +2067,9 @@
    "url": "https://www.amazon.com/dp/B00A7NDT3A?tag=smartkosher-20",
    "confirmed": false,
    "source": "TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z"
-  },
-  {
-   "id": "amazon-basics-13-gallon-kitchen-trash-bags-120-count",
-   "title": "Amazon Basics 13-Gallon Kitchen Trash Bags (120-count)",
-   "category": "Household",
-   "price": 15.0,
-   "was": null,
-   "note": "Black Friday price on a big box of kitchen bags.",
-   "condition": null,
-   "url": "https://www.amazon.com/s?k=Amazon+Basics+13+gallon+kitchen+trash+bags+120&tag=smartkosher-20",
-   "confirmed": false,
-   "source": "DealNews 11/21",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "beats-studio-pro-over-ear-headphones",
@@ -1858,7 +2082,9 @@
    "url": "https://www.amazon.com/dp/B0C8PR4W22?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "beats-solo-4-on-ear-headphones",
@@ -1871,7 +2097,9 @@
    "url": "https://www.amazon.com/dp/B0CZPLV566?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20; DansDeals 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "skullcandy-crusher-anc-2-headphones",
@@ -1884,7 +2112,9 @@
    "url": "https://www.amazon.com/dp/B0C9L8ZR6Q?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "jbl-tune-780nc-headphones",
@@ -1897,7 +2127,9 @@
    "url": "https://www.amazon.com/dp/B0GV1VS2MN?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "soundcore-q20i-headphones",
@@ -1910,7 +2142,9 @@
    "url": "https://www.amazon.com/dp/B0C3HCD34R?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sony-ult-field-1-speaker",
@@ -1923,7 +2157,9 @@
    "url": "https://www.amazon.com/dp/B0CXKSCY1G?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "jbl-bar-800-soundbar",
@@ -1936,7 +2172,9 @@
    "url": "https://www.amazon.com/dp/B0CLMCK8SN?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sony-ps-lx3bt-bluetooth-turntable",
@@ -1949,7 +2187,9 @@
    "url": "https://www.amazon.com/dp/B0G96H73JD?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "hisense-75-u7-mini-led-tv",
@@ -1962,7 +2202,9 @@
    "url": "https://www.amazon.com/dp/B0GR9NR9XV?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kindle-colorsoft-16gb",
@@ -1975,7 +2217,9 @@
    "url": "https://www.amazon.com/dp/B0CGVSKR1G?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kindle-colorsoft-kids",
@@ -1988,7 +2232,9 @@
    "url": "https://www.amazon.com/dp/B0DZ9G3BHP?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ring-wired-doorbell-4k-pro",
@@ -2001,7 +2247,9 @@
    "url": "https://www.amazon.com/dp/B0F151GFYR?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ring-floodlight-cam-2k",
@@ -2014,7 +2262,9 @@
    "url": "https://www.amazon.com/dp/B0FWDS4W4V?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "blink-mini-pan-tilt-2k",
@@ -2027,7 +2277,9 @@
    "url": "https://www.amazon.com/dp/B0GZLXWN8X?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "philips-hue-play-gradient-lightstrip-55-tvs",
@@ -2040,7 +2292,9 @@
    "url": "https://www.amazon.com/dp/B08HV6V49V?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "philips-hue-color-a19-bulbs-3-pack",
@@ -2053,20 +2307,24 @@
    "url": "https://www.amazon.com/dp/B0FMGNF843?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "govee-permanent-outdoor-lights-pro-200-ft",
    "title": "Govee Permanent Outdoor Lights Pro (200 ft)",
    "category": "Smart Home & Security",
-   "price": 449.99,
-   "was": 759.99,
-   "note": "Year-round roofline lights, $310 off.",
+   "price": 400.0,
+   "was": 760.0,
+   "note": "200 feet of app-controlled permanent outdoor lights for $400.",
    "condition": null,
    "url": "https://www.amazon.com/dp/B0DX1WPB9J?tag=smartkosher-20",
    "confirmed": false,
-   "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
   },
   {
    "id": "lg-ultragear-27-oled-gaming-monitor",
@@ -2079,7 +2337,9 @@
    "url": "https://www.amazon.com/dp/B0DF786923?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "lg-ultragear-32-4k-oled-gaming-monitor",
@@ -2092,7 +2352,9 @@
    "url": "https://www.amazon.com/dp/B0FLQLPNNH?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsung-galaxy-book4-edge-16-laptop",
@@ -2105,7 +2367,9 @@
    "url": "https://www.amazon.com/dp/B0HHHYBHL1?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "sandisk-extreme-64gb-microsd-card",
@@ -2118,7 +2382,9 @@
    "url": "https://www.amazon.com/dp/B09X7C7LL1?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "gopro-hero13-black-accessory-bundle",
@@ -2131,7 +2397,9 @@
    "url": "https://www.amazon.com/dp/B0GW9JGWBC?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "focusrite-vocaster-two-podcast-interface",
@@ -2144,7 +2412,9 @@
    "url": "https://www.amazon.com/dp/B09ZGT64RV?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "oral-b-io-series-8-electric-toothbrush",
@@ -2157,7 +2427,9 @@
    "url": "https://www.amazon.com/dp/B088CL4RKZ?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "oral-b-io-series-3-electric-toothbrush",
@@ -2170,7 +2442,9 @@
    "url": "https://www.amazon.com/dp/B0B5HRWH1S?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "waterpik-aquarius-water-flosser",
@@ -2183,7 +2457,9 @@
    "url": "https://www.amazon.com/dp/B00HFQQ0VU?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "quip-rev-smart-toothbrush",
@@ -2196,7 +2472,9 @@
    "url": "https://www.amazon.com/dp/B0GFPWSRP4?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kitchenaid-artisan-5-5-qt-bowl-lift-stand-mixer",
@@ -2209,7 +2487,9 @@
    "url": "https://www.amazon.com/dp/B0G8HN99MK?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "vitamix-5200-blender",
@@ -2222,7 +2502,9 @@
    "url": "https://www.amazon.com/dp/B008H4SLV6?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "staub-4-qt-cast-iron-cocotte",
@@ -2235,7 +2517,9 @@
    "url": "https://www.amazon.com/dp/B003G65YQ0?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "keurig-k-elite-coffee-maker",
@@ -2248,7 +2532,9 @@
    "url": "https://www.amazon.com/dp/B0788F3R8X?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "cuisinart-toa-55-air-fryer-toaster-oven",
@@ -2261,7 +2547,9 @@
    "url": "https://www.amazon.com/dp/B0GVVJZDQV?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "zwilling-professional-s-8-chef-s-knife",
@@ -2274,7 +2562,9 @@
    "url": "https://www.amazon.com/dp/B00004RFLI?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "kitchenaid-8-cup-grain-and-rice-cooker",
@@ -2287,7 +2577,9 @@
    "url": "https://www.amazon.com/dp/B0CS6WVLJ7?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "zojirushi-12-oz-travel-mug",
@@ -2300,7 +2592,9 @@
    "url": "https://www.amazon.com/dp/B00HR0WZP4?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "bissell-powerclean-dualbrush-stick-vacuum",
@@ -2313,7 +2607,9 @@
    "url": "https://www.amazon.com/dp/B0G2CZDDJ5?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "melissa-doug-deluxe-magnetic-tabletop-easel",
@@ -2326,7 +2622,9 @@
    "url": "https://www.amazon.com/dp/B086WNQRC3?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "lego-star-wars-battle-droid-with-stap",
@@ -2339,7 +2637,9 @@
    "url": "https://www.amazon.com/dp/B0DRW6VY43?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "lego-speed-champions-f1-collector-s-pack",
@@ -2352,7 +2652,9 @@
    "url": "https://www.amazon.com/dp/B0DJDDY334?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "leatherman-charge-plus-tti-multi-tool",
@@ -2365,7 +2667,9 @@
    "url": "https://www.amazon.com/dp/B079MJHYKC?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "dremel-4000-rotary-tool-kit",
@@ -2378,7 +2682,9 @@
    "url": "https://www.amazon.com/dp/B0CWBY5Z2M?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "greenworks-80v-16-chainsaw-kit",
@@ -2391,7 +2697,9 @@
    "url": "https://www.amazon.com/dp/B0CLSFKCS1?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "dji-power-2000-portable-power-station",
@@ -2404,7 +2712,9 @@
    "url": "https://www.amazon.com/dp/B0FBRD1B8C?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "anker-solix-c1000-gen-2-power-station",
@@ -2417,7 +2727,9 @@
    "url": "https://www.amazon.com/dp/B0FN7MSY4L?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-evolve-se-hardside-medium-spinner",
@@ -2430,7 +2742,9 @@
    "url": "https://www.amazon.com/dp/B0BN4D41P2?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-stryde-2-hardside-medium-glider",
@@ -2443,7 +2757,9 @@
    "url": "https://www.amazon.com/dp/B0DK9X6NVG?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-ascella-4-carry-on-spinner",
@@ -2456,7 +2772,9 @@
    "url": "https://www.amazon.com/dp/B0FW5LXSM2?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-elevation-plus-hardside-medium-spinner",
@@ -2469,7 +2787,9 @@
    "url": "https://www.amazon.com/dp/B0DWJ8VV6P?tag=smartkosher-20",
    "confirmed": false,
    "source": "PopSci 11/20; DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-winfield-3-dlx-2-piece-set",
@@ -2482,7 +2802,9 @@
    "url": "https://www.amazon.com/dp/B0CPGGDLHY?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-omni-2-pro-hardside-2-piece-set",
@@ -2495,7 +2817,9 @@
    "url": "https://www.amazon.com/dp/B077FKTJ9M?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-omni-2-hardside-3-piece-set",
@@ -2508,7 +2832,9 @@
    "url": "https://www.amazon.com/dp/B0FY79HLVQ?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-elevation-plus-expandable-duffle",
@@ -2521,7 +2847,9 @@
    "url": "https://www.amazon.com/dp/B0F8C472X6?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-andante-2-28-wheeled-duffel",
@@ -2534,7 +2862,9 @@
    "url": "https://www.amazon.com/dp/B0FY7V1NMW?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "samsonite-mobile-solutions-2-rolling-laptop-bag",
@@ -2547,7 +2877,9 @@
    "url": "https://www.amazon.com/dp/B0FRCFYSDH?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "cole-haan-american-classics-penny-loafers-men-s",
@@ -2560,7 +2892,9 @@
    "url": "https://www.amazon.com/dp/B0B21KTWJJ?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "rockport-garett-plain-toe-oxfords-men-s",
@@ -2573,7 +2907,9 @@
    "url": "https://www.amazon.com/dp/B08KHP6GDZ?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "rockport-criss-plain-toe-oxfords-men-s",
@@ -2586,7 +2922,9 @@
    "url": "https://www.amazon.com/dp/B0GJTTPP7F?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "florsheim-mirano-venetian-loafers-men-s",
@@ -2599,7 +2937,9 @@
    "url": "https://www.amazon.com/dp/B0GYZXCN6Z?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ecco-prague-derby-cap-toe-oxfords-men-s",
@@ -2612,7 +2952,9 @@
    "url": "https://www.amazon.com/dp/B0FXFW278W?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "ecco-milan-apron-toe-oxfords-men-s",
@@ -2625,7 +2967,9 @@
    "url": "https://www.amazon.com/dp/B0F7D25YWM?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
   },
   {
    "id": "steve-madden-zephyr-penny-loafers-men-s",
@@ -2638,7 +2982,3009 @@
    "url": "https://www.amazon.com/dp/B0CV98QXZ1?tag=smartkosher-20",
    "confirmed": false,
    "source": "DansDeals 11/19",
-   "checked": "2026-11-24T03:30:00Z"
+   "checked": "2026-11-24T03:30:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-watch-se-3-40mm-gps",
+   "title": "Apple Watch SE 3 (40mm, GPS)",
+   "category": "Apple",
+   "price": 179.0,
+   "was": 249.0,
+   "note": "Price cut again from $199, beating its previous low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Watch+SE+3+%2840mm%2C+GPS%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "apple-watch-se-3-44mm-gps",
+   "title": "Apple Watch SE 3 (44mm, GPS)",
+   "category": "Apple",
+   "price": 209.0,
+   "was": 279.0,
+   "note": "Bigger SE 3 drops $70, down from a $229 sale price earlier this week.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Watch+SE+3+%2844mm%2C+GPS%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-cellular",
+   "title": "Apple Watch Series 12 (42mm, GPS + Cellular)",
+   "category": "Apple",
+   "price": 399.0,
+   "was": 499.0,
+   "note": "Lowest price yet on the cellular Series 12, a full $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Watch+Series+12+%2842mm%2C+GPS+%2B+Cellular%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-cellular",
+   "title": "Apple Watch Series 12 (46mm, GPS + Cellular)",
+   "category": "Apple",
+   "price": 449.0,
+   "was": 549.0,
+   "note": "Record low for the larger cellular model, $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Watch+Series+12+%2846mm%2C+GPS+%2B+Cellular%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "macbook-air-15-m5-16gb-512gb",
+   "title": "MacBook Air 15\" M5 (16GB, 512GB)",
+   "category": "Apple",
+   "price": 1197.0,
+   "was": 1499.0,
+   "note": "Over $300 off the big-screen Air for students and office work.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=MacBook+Air+15%22+M5+%2816GB%2C+512GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ipad-pro-13-m5-512gb",
+   "title": "iPad Pro 13\" M5 (512GB)",
+   "category": "Apple",
+   "price": 1349.0,
+   "was": 1699.0,
+   "note": "$350 off and among the lowest prices this tablet has seen.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=iPad+Pro+13%22+M5+%28512GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "apple-pencil-pro",
+   "title": "Apple Pencil Pro",
+   "category": "Apple",
+   "price": 99.0,
+   "was": 129.0,
+   "note": "Within a hair of its record low; pairs with current iPad Air and Pro.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Pencil+Pro&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "beats-powerbeats-pro-2",
+   "title": "Beats Powerbeats Pro 2",
+   "category": "Headphones & Audio",
+   "price": 179.95,
+   "was": 249.99,
+   "note": "Matches the lowest price on Apple's workout earbuds with heart-rate sensing.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Beats+Powerbeats+Pro+2&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "echo-dot-max",
+   "title": "Echo Dot Max",
+   "category": "Amazon Devices",
+   "price": 50.0,
+   "was": 120.0,
+   "note": "Well over half off Amazon's best-sounding Dot.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0D6SX8VLQ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "echo-spot-smart-alarm-clock",
+   "title": "Echo Spot Smart Alarm Clock",
+   "category": "Amazon Devices",
+   "price": 45.0,
+   "was": 110.0,
+   "note": "Nearly 60% off the bedside Echo with a small screen.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BFC7WQ6R?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "big discount"
+  },
+  {
+   "id": "echo-show-5",
+   "title": "Echo Show 5",
+   "category": "Amazon Devices",
+   "price": 55.0,
+   "was": 100.0,
+   "note": "Compact smart display for the kitchen or nightstand at about half price.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B09B2SRGXH?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "echo-show-11",
+   "title": "Echo Show 11",
+   "category": "Amazon Devices",
+   "price": 155.0,
+   "was": 250.0,
+   "note": "$95 off the mid-size smart display with a sharper screen.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DC91H3JK?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "echo-show-15",
+   "title": "Echo Show 15",
+   "category": "Amazon Devices",
+   "price": 230.0,
+   "was": 350.0,
+   "note": "Wall-mountable family hub at $120 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0C5DPSW5Y?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "echo-studio-with-home-camera",
+   "title": "Echo Studio with Home Camera",
+   "category": "Amazon Devices",
+   "price": 180.0,
+   "was": 250.0,
+   "note": "First discount on the new Studio bundle; editors flag a new low.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CVJSF8JR?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "echo-dot-kids-newest-model",
+   "title": "Echo Dot Kids (newest model)",
+   "category": "Amazon Devices",
+   "price": 50.0,
+   "was": 110.0,
+   "note": "First price drop on the new kids Dot, more than half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GFQ62TWM?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "alexa-tablet-8-128gb",
+   "title": "Alexa Tablet 8 (128GB)",
+   "category": "Amazon Devices",
+   "price": 160.0,
+   "was": 280.0,
+   "note": "New record low on the higher-storage 8-inch Alexa tablet.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Alexa+Tablet+8+%28128GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "alexa-tablet-11-128gb",
+   "title": "Alexa Tablet 11 (128GB)",
+   "category": "Amazon Devices",
+   "price": 220.0,
+   "was": 380.0,
+   "note": "$160 off the 11-inch model, its lowest price so far.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Alexa+Tablet+11+%28128GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "alexa-tablet-12-pro-128gb",
+   "title": "Alexa Tablet 12 Pro (128GB)",
+   "category": "Amazon Devices",
+   "price": 400.0,
+   "was": 500.0,
+   "note": "First real cut on Amazon's flagship tablet, a record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Alexa+Tablet+12+Pro+%28128GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "kindle-scribe-32gb",
+   "title": "Kindle Scribe (32GB)",
+   "category": "Amazon Devices",
+   "price": 349.0,
+   "was": 499.0,
+   "note": "$150 off the big e-ink reader you can write notes on.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Kindle+Scribe+%2832GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "lg-65-c6-oled-4k-tv",
+   "title": "LG 65\" C6 OLED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 1399.99,
+   "was": 2699.99,
+   "note": "Roughly half off LG's popular OLED; editors call it a record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LG+65%22+C6+OLED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "lg-65-b6-oled-4k-tv",
+   "title": "LG 65\" B6 OLED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 999.99,
+   "was": 1999.99,
+   "note": "A 65-inch OLED under $1,000 at its lowest price yet.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LG+65%22+B6+OLED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "samsung-55-s90h-oled-4k-tv",
+   "title": "Samsung 55\" S90H OLED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 1197.99,
+   "was": 1597.99,
+   "note": "Record-low price on Samsung's mid-tier QD-OLED.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+55%22+S90H+OLED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "sony-65-bravia-xr8b-oled-4k-tv",
+   "title": "Sony 65\" Bravia XR8B OLED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 2198.0,
+   "was": 3299.99,
+   "note": "Over $1,000 off Sony's OLED, the lowest it has been.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Sony+65%22+Bravia+XR8B+OLED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "tcl-75-qm8l-mini-led-tv-2026",
+   "title": "TCL 75\" QM8L Mini-LED TV (2026)",
+   "category": "TVs & Streaming",
+   "price": 1397.99,
+   "was": 2999.99,
+   "note": "More than half off a very bright 75-inch mini-LED; record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=TCL+75%22+QM8L+Mini-LED+TV+%282026%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "hisense-65-u7-mini-led-qled-tv",
+   "title": "Hisense 65\" U7 Mini-LED QLED TV",
+   "category": "TVs & Streaming",
+   "price": 797.99,
+   "was": 1497.99,
+   "note": "Nearly $700 off a strong gaming TV at its lowest price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Hisense+65%22+U7+Mini-LED+QLED+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "roku-65-select-series-4k-qled-tv",
+   "title": "Roku 65\" Select Series 4K QLED TV",
+   "category": "TVs & Streaming",
+   "price": 429.99,
+   "was": 649.99,
+   "note": "Big-screen QLED under $450 at a record-low price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Roku+65%22+Select+Series+4K+QLED+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "insignia-50-f50-4k-qled-fire-tv",
+   "title": "Insignia 50\" F50 4K QLED Fire TV",
+   "category": "TVs & Streaming",
+   "price": 149.99,
+   "was": 299.99,
+   "note": "Half price for a 50-inch 4K TV; cheapest it has been.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Insignia+50%22+F50+4K+QLED+Fire+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "amazon-40-2-series-hd-fire-tv",
+   "title": "Amazon 40\" 2-Series HD Fire TV",
+   "category": "TVs & Streaming",
+   "price": 179.99,
+   "was": 249.99,
+   "note": "Record low on a small-room Fire TV.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Amazon+40%22+2-Series+HD+Fire+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "insignia-32-f20-hd-fire-tv",
+   "title": "Insignia 32\" F20 HD Fire TV",
+   "category": "TVs & Streaming",
+   "price": 69.99,
+   "was": 129.99,
+   "note": "Bedroom or dorm TV under $70, a record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Insignia+32%22+F20+HD+Fire+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "ring-battery-doorbell-plus",
+   "title": "Ring Battery Doorbell Plus",
+   "category": "Smart Home & Security",
+   "price": 89.99,
+   "was": 179.99,
+   "note": "Half off the head-to-toe view doorbell; editors call it a record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ring+Battery+Doorbell+Plus&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "ring-outdoor-cam-2k",
+   "title": "Ring Outdoor Cam 2K",
+   "category": "Smart Home & Security",
+   "price": 49.99,
+   "was": 99.99,
+   "note": "Sharper 2K outdoor camera at 50% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ring+Outdoor+Cam+2K&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ring-indoor-cam-plus",
+   "title": "Ring Indoor Cam Plus",
+   "category": "Smart Home & Security",
+   "price": 24.99,
+   "was": 59.99,
+   "note": "Under $25 for an indoor cam, nearly 60% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ring+Indoor+Cam+Plus&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "blink-battery-doorbell-2k",
+   "title": "Blink Battery Doorbell 2K+",
+   "category": "Smart Home & Security",
+   "price": 34.99,
+   "was": 79.99,
+   "note": "Wire-free 2K doorbell at a record-low price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Blink+Battery+Doorbell+2K%2B&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "sony-wh-1000xm6-noise-canceling-headphones",
+   "title": "Sony WH-1000XM6 Noise-Canceling Headphones",
+   "category": "Headphones & Audio",
+   "price": 348.0,
+   "was": 459.99,
+   "note": "Cheapest yet on Sony's top ANC headphones.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Sony+WH-1000XM6+Noise-Canceling+Headphones&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "sony-wf-1000xm6-noise-canceling-earbuds",
+   "title": "Sony WF-1000XM6 Noise-Canceling Earbuds",
+   "category": "Headphones & Audio",
+   "price": 248.0,
+   "was": 329.99,
+   "note": "$80 off Sony's flagship earbuds.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Sony+WF-1000XM6+Noise-Canceling+Earbuds&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "bose-quietcomfort-ultra-headphones-2nd-gen",
+   "title": "Bose QuietComfort Ultra Headphones (2nd Gen)",
+   "category": "Headphones & Audio",
+   "price": 339.0,
+   "was": 449.0,
+   "note": "Record low on Bose's best noise-canceling headphones.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Headphones+%282nd+Gen%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "bose-quietcomfort-ultra-earbuds-2nd-gen",
+   "title": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+   "category": "Headphones & Audio",
+   "price": 229.0,
+   "was": 299.0,
+   "note": "Lowest price ever on Bose's top earbuds.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Earbuds+%282nd+Gen%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "samsung-galaxy-buds-4-pro",
+   "title": "Samsung Galaxy Buds 4 Pro",
+   "category": "Headphones & Audio",
+   "price": 169.99,
+   "was": 249.99,
+   "note": "$80 off Samsung's flagship earbuds, a great match for Galaxy phones.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+Galaxy+Buds+4+Pro&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "sennheiser-momentum-true-wireless-3",
+   "title": "Sennheiser Momentum True Wireless 3",
+   "category": "Headphones & Audio",
+   "price": 99.95,
+   "was": 279.95,
+   "note": "Premium-sounding earbuds at nearly two-thirds off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Sennheiser+Momentum+True+Wireless+3&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "razer-blackshark-v2-pro-wireless-headset",
+   "title": "Razer BlackShark V2 Pro Wireless Headset",
+   "category": "Headphones & Audio",
+   "price": 99.99,
+   "was": 199.99,
+   "note": "Half off a top-rated wireless gaming headset.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Razer+BlackShark+V2+Pro+Wireless+Headset&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "logitech-g735-wireless-gaming-headset",
+   "title": "Logitech G735 Wireless Gaming Headset",
+   "category": "Headphones & Audio",
+   "price": 132.03,
+   "was": 259.99,
+   "note": "About 49% off Logitech's lightweight wireless headset.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Logitech+G735+Wireless+Gaming+Headset&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "hyperx-cloud-alpha-wireless-headset",
+   "title": "HyperX Cloud Alpha Wireless Headset",
+   "category": "Headphones & Audio",
+   "price": 108.99,
+   "was": 199.99,
+   "note": "Known for very long battery life, now nearly half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=HyperX+Cloud+Alpha+Wireless+Headset&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-9100-pro-2tb-pcie-5-0-nvme-ssd",
+   "title": "Samsung 9100 Pro 2TB PCIe 5.0 NVMe SSD",
+   "category": "Computers & Tablets",
+   "price": 349.99,
+   "was": 679.97,
+   "note": "Roughly half off a top-speed Gen 5 drive.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+9100+Pro+2TB+PCIe+5.0+NVMe+SSD&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-9100-pro-1tb-pcie-5-0-nvme-ssd",
+   "title": "Samsung 9100 Pro 1TB PCIe 5.0 NVMe SSD",
+   "category": "Computers & Tablets",
+   "price": 209.99,
+   "was": 339.99,
+   "note": "38% off one of the fastest consumer SSDs.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+9100+Pro+1TB+PCIe+5.0+NVMe+SSD&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-990-pro-4tb-nvme-ssd",
+   "title": "Samsung 990 Pro 4TB NVMe SSD",
+   "category": "Computers & Tablets",
+   "price": 699.99,
+   "was": 1099.99,
+   "note": "$400 off a big, fast drive for PS5 or PC.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+990+Pro+4TB+NVMe+SSD&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "amd-ryzen-7-7800x3d-processor",
+   "title": "AMD Ryzen 7 7800X3D Processor",
+   "category": "Computers & Tablets",
+   "price": 339.0,
+   "was": 449.0,
+   "note": "$110 off a favorite gaming CPU.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=AMD+Ryzen+7+7800X3D+Processor&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "samsung-odyssey-g7-37-4k-curved-monitor",
+   "title": "Samsung Odyssey G7 37\" 4K Curved Monitor",
+   "category": "Computers & Tablets",
+   "price": 489.99,
+   "was": 899.99,
+   "note": "Matches the lowest price seen; nearly half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+Odyssey+G7+37%22+4K+Curved+Monitor&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "microsoft-surface-laptop-13-snapdragon-x-plus-16gb",
+   "title": "Microsoft Surface Laptop 13\" (Snapdragon X Plus, 16GB)",
+   "category": "Computers & Tablets",
+   "price": 924.46,
+   "was": 1249.99,
+   "note": "About $325 off a thin, light Windows laptop.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DZB622B2?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PCWorld 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "razer-deathadder-v3-pro-wireless-mouse",
+   "title": "Razer DeathAdder V3 Pro Wireless Mouse",
+   "category": "Computers & Tablets",
+   "price": 59.99,
+   "was": 149.99,
+   "note": "60% off one of the best esports mice.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Razer+DeathAdder+V3+Pro+Wireless+Mouse&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "razer-viper-v3-pro-wireless-mouse",
+   "title": "Razer Viper V3 Pro Wireless Mouse",
+   "category": "Computers & Tablets",
+   "price": 99.99,
+   "was": 159.99,
+   "note": "$60 off Razer's ultralight flagship mouse.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Razer+Viper+V3+Pro+Wireless+Mouse&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "logitech-g305-lightspeed-wireless-mouse",
+   "title": "Logitech G305 Lightspeed Wireless Mouse",
+   "category": "Computers & Tablets",
+   "price": 26.99,
+   "was": 49.99,
+   "note": "Long-time budget favorite nearly half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Logitech+G305+Lightspeed+Wireless+Mouse&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "tp-link-archer-be3600-wi-fi-7-router",
+   "title": "TP-Link Archer BE3600 Wi-Fi 7 Router",
+   "category": "Computers & Tablets",
+   "price": 74.99,
+   "was": 119.99,
+   "note": "Cheap way into Wi-Fi 7 with 2.5G ports.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=TP-Link+Archer+BE3600+Wi-Fi+7+Router&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Hardware 11/24",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-galaxy-s26-ultra-512gb",
+   "title": "Samsung Galaxy S26 Ultra (512GB)",
+   "category": "Phones & Wearables",
+   "price": 1150.0,
+   "was": 1600.0,
+   "note": "$450 off Samsung's top phone with double the storage.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Ultra+%28512GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "google-pixel-11-128gb",
+   "title": "Google Pixel 11 (128GB)",
+   "category": "Phones & Wearables",
+   "price": 699.0,
+   "was": 899.0,
+   "note": "$200 off Google's newest flagship phone.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Google+Pixel+11+%28128GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-galaxy-watch-ultra-2025",
+   "title": "Samsung Galaxy Watch Ultra (2025)",
+   "category": "Phones & Wearables",
+   "price": 445.0,
+   "was": 649.99,
+   "note": "Over $200 off Samsung's rugged smartwatch.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch+Ultra+%282025%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "garmin-forerunner-265-running-watch",
+   "title": "Garmin Forerunner 265 Running Watch",
+   "category": "Phones & Wearables",
+   "price": 299.99,
+   "was": 449.99,
+   "note": "$150 off a top runner's watch; a record low.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Garmin+Forerunner+265+Running+Watch&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "ugreen-magflow-pro-10k-qi2-25w-power-bank",
+   "title": "UGREEN MagFlow Pro 10K Qi2 25W Power Bank",
+   "category": "Chargers & Accessories",
+   "price": 90.0,
+   "was": 150.0,
+   "note": "40% off a fast magnetic battery for newer iPhones.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=UGREEN+MagFlow+Pro+10K+Qi2+25W+Power+Bank&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ugreen-magflow-25w-3-in-1-charging-station",
+   "title": "UGREEN MagFlow 25W 3-in-1 Charging Station",
+   "category": "Chargers & Accessories",
+   "price": 85.0,
+   "was": 140.0,
+   "note": "Charges phone, watch and earbuds; 39% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DQKHPPBJ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "anker-150w-slim-usb-c-travel-charging-station",
+   "title": "Anker 150W Slim USB-C Travel Charging Station",
+   "category": "Chargers & Accessories",
+   "price": 60.0,
+   "was": 80.0,
+   "note": "Lowest price yet on a slim multi-port desk and travel charger.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Anker+150W+Slim+USB-C+Travel+Charging+Station&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "anker-prime-20-000mah-220w-power-bank-wukong-edition",
+   "title": "Anker Prime 20,000mAh 220W Power Bank (Wukong Edition)",
+   "category": "Chargers & Accessories",
+   "price": 130.0,
+   "was": 200.0,
+   "note": "$70 off a power bank that can charge two laptops.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0F936ZL31?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "xbox-wireless-controller",
+   "title": "Xbox Wireless Controller",
+   "category": "Video Games",
+   "price": 42.99,
+   "was": 64.99,
+   "note": "About a third off the standard Xbox and PC controller.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Xbox+Wireless+Controller&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "playstation-access-controller",
+   "title": "PlayStation Access Controller",
+   "category": "Video Games",
+   "price": 60.0,
+   "was": 90.0,
+   "note": "$30 off Sony's adaptive controller.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=PlayStation+Access+Controller&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "the-last-of-us-part-ii-remastered-ps5",
+   "title": "The Last of Us Part II Remastered (PS5)",
+   "category": "Video Games",
+   "price": 25.0,
+   "was": 50.0,
+   "note": "Half off the PS5 remaster with the roguelike No Return mode.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=The+Last+of+Us+Part+II+Remastered+%28PS5%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "roborock-qrevo-s-pro-robot-vacuum-and-mop",
+   "title": "Roborock Qrevo S Pro Robot Vacuum and Mop",
+   "category": "Home & Kitchen",
+   "price": 380.0,
+   "was": 700.0,
+   "note": "Nearly half off a self-emptying vacuum-mop combo.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Roborock+Qrevo+S+Pro+Robot+Vacuum+and+Mop&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "9to5Toys 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "roborock-saros-20-robot-vacuum",
+   "title": "Roborock Saros 20 Robot Vacuum",
+   "category": "Home & Kitchen",
+   "price": 989.99,
+   "was": 1599.99,
+   "note": "$610 off Roborock's high-end robot.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Roborock+Saros+20+Robot+Vacuum&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "dyson-v8-cordless-vacuum",
+   "title": "Dyson V8 Cordless Vacuum",
+   "category": "Home & Kitchen",
+   "price": 279.99,
+   "was": 389.99,
+   "note": "$110 off a dependable cordless Dyson.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Dyson+V8+Cordless+Vacuum&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "breville-barista-pro-espresso-machine",
+   "title": "Breville Barista Pro Espresso Machine",
+   "category": "Home & Kitchen",
+   "price": 629.95,
+   "was": 849.95,
+   "note": "$220 off a fast-heating espresso maker with built-in grinder.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Breville+Barista+Pro+Espresso+Machine&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TechRadar 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "kitchenaid-artisan-5-qt-tilt-head-stand-mixer",
+   "title": "KitchenAid Artisan 5-Qt Tilt-Head Stand Mixer",
+   "category": "Home & Kitchen",
+   "price": 349.95,
+   "was": 499.99,
+   "note": "The classic Artisan mixer at $150 off, its best Amazon price for most of 2026.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0769ZQWH7?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "kitchenaid-classic-4-5-qt-tilt-head-stand-mixer",
+   "title": "KitchenAid Classic 4.5-Qt Tilt-Head Stand Mixer",
+   "category": "Home & Kitchen",
+   "price": 279.99,
+   "was": 399.99,
+   "note": "Entry KitchenAid mixer for $120 off, a solid holiday-baking starter.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B003OXNBYC?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "dyson-v15-detect-cordless-vacuum",
+   "title": "Dyson V15 Detect Cordless Vacuum",
+   "category": "Home & Kitchen",
+   "price": 598.99,
+   "was": 849.99,
+   "note": "Dyson's laser-dust flagship stick vac for about $250 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GXX8KQY7?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "dyson-cyclone-v10-origin-cordless-vacuum",
+   "title": "Dyson Cyclone V10 Origin Cordless Vacuum",
+   "category": "Home & Kitchen",
+   "price": 328.69,
+   "was": 479.99,
+   "note": "Strong-suction Dyson stick vac for roughly $150 off list.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GT2D9ZCR?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "irobot-roomba-max-875-robot-vacuum-mop",
+   "title": "iRobot Roomba Max 875 Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 799.99,
+   "was": 1199.99,
+   "note": "Top-tier Roomba with mopping and self-empty dock, $400 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HGVRYS48?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "irobot-roomba-plus-678-robot-vacuum-mop",
+   "title": "iRobot Roomba Plus 678 Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 599.99,
+   "was": 899.99,
+   "note": "Mid-range Roomba combo with auto-empty base for $300 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HB7C6J6P?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ecovacs-deebot-t90-pro-omni-robot-vacuum-mop",
+   "title": "Ecovacs Deebot T90 Pro Omni Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 499.0,
+   "was": 799.99,
+   "note": "Full-featured mop-washing robot dock for under $500.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GJ5S4V78?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "narwal-flow-2-robot-vacuum-mop",
+   "title": "Narwal Flow 2 Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 949.99,
+   "was": 1499.99,
+   "note": "Premium self-cleaning mop robot at $550 off list.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GSTTK19C?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "tineco-floor-one-s9-artist-steam-wet-dry-vacuum",
+   "title": "Tineco Floor One S9 Artist Steam Wet-Dry Vacuum",
+   "category": "Home & Kitchen",
+   "price": 599.0,
+   "was": 949.0,
+   "note": "Steam-cleaning wet-dry floor washer for $350 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DY7G7C8P?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "bissell-revolution-hydrosteam-pet-carpet-cleaner",
+   "title": "Bissell Revolution HydroSteam Pet Carpet Cleaner",
+   "category": "Home & Kitchen",
+   "price": 299.99,
+   "was": 399.99,
+   "note": "Pet-focused carpet deep cleaner with steam boost, $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BP8GCN87?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "dyson-w1-pencilwash-wet-floor-cleaner",
+   "title": "Dyson W1 PencilWash Wet Floor Cleaner",
+   "category": "Home & Kitchen",
+   "price": 249.0,
+   "was": 349.0,
+   "note": "Dyson's slim wet floor cleaner at $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Dyson+W1+PencilWash+Wet+Floor+Cleaner&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "ninja-creami-scoop-swirl-ice-cream-maker",
+   "title": "Ninja Creami Scoop & Swirl Ice Cream Maker",
+   "category": "Home & Kitchen",
+   "price": 279.99,
+   "was": 349.99,
+   "note": "Soft-serve capable Creami at one of its best prices online.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HBF5RQ2Z?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "chefman-indoor-pizza-oven",
+   "title": "CHEFMAN Indoor Pizza Oven",
+   "category": "Home & Kitchen",
+   "price": 189.0,
+   "was": 399.0,
+   "note": "800-degree countertop pizza oven at more than half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=CHEFMAN+Indoor+Pizza+Oven&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "kitchenaid-5-ply-stainless-10-piece-cookware-set",
+   "title": "KitchenAid 5-Ply Stainless 10-Piece Cookware Set",
+   "category": "Home & Kitchen",
+   "price": 384.99,
+   "was": 549.99,
+   "note": "Full clad stainless set from KitchenAid for $165 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B08GDLTZSZ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "le-creuset-11-25-enameled-cast-iron-skillet",
+   "title": "Le Creuset 11.25\" Enameled Cast Iron Skillet",
+   "category": "Home & Kitchen",
+   "price": 195.3,
+   "was": 314.95,
+   "note": "Rare Le Creuset markdown, nearly 40% off a lifetime pan.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HKWRSBZQ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "oxo-everyday-stainless-10-piece-cookware-set",
+   "title": "OXO Everyday Stainless 10-Piece Cookware Set",
+   "category": "Home & Kitchen",
+   "price": 129.99,
+   "was": 199.99,
+   "note": "Budget-friendly stainless set that covers most cooking needs.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0H8Z7ZPQ6?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "wusthof-classic-ikon-6-chef-s-knife",
+   "title": "Wusthof Classic Ikon 6\" Chef's Knife",
+   "category": "Home & Kitchen",
+   "price": 121.0,
+   "was": 170.0,
+   "note": "German-forged chef's knife from Wusthof's top line, about 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0883T8HRB?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "cuisinart-convection-bread-maker",
+   "title": "Cuisinart Convection Bread Maker",
+   "category": "Home & Kitchen",
+   "price": 181.95,
+   "was": 259.95,
+   "note": "Programmable bread machine with convection for $78 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BY3CGVYD?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "sodastream-fresh-plus-sparkling-water-maker",
+   "title": "SodaStream Fresh Plus Sparkling Water Maker",
+   "category": "Home & Kitchen",
+   "price": 94.99,
+   "was": 129.99,
+   "note": "Home seltzer maker under $100, a practical gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HC4FLY6Z?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "coway-mighty-air-purifier",
+   "title": "Coway Mighty Air Purifier",
+   "category": "Home & Kitchen",
+   "price": 143.99,
+   "was": 229.99,
+   "note": "Long-time favorite room purifier, close to 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B01728NLRG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "blueair-blue-pure-511i-max-air-purifier",
+   "title": "Blueair Blue Pure 511i Max Air Purifier",
+   "category": "Home & Kitchen",
+   "price": 89.99,
+   "was": 139.99,
+   "note": "Quiet small-room purifier from Blueair for under $90.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B08KPJ76RR?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "shark-chillpill-personal-fan",
+   "title": "Shark ChillPill Personal Fan",
+   "category": "Home & Kitchen",
+   "price": 119.99,
+   "was": 149.99,
+   "note": "Shark's misting personal cooling fan at its lowest price yet.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GGTPYPGZ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "NBC Select 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "hatch-sleep-clock",
+   "title": "Hatch Sleep Clock",
+   "category": "Home & Kitchen",
+   "price": 187.49,
+   "was": 249.99,
+   "note": "Hatch's sunrise sleep clock at a new low price.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GV4YDWM5?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "magna-tiles-classic-100-piece-set",
+   "title": "Magna-Tiles Classic 100-Piece Set",
+   "category": "Toys & Kids",
+   "price": 83.99,
+   "was": 119.99,
+   "note": "The original magnetic tiles for $36 off, a top kids' gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B000CBSNRY?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "ravensburger-gravitrax-xxl-starter-set",
+   "title": "Ravensburger GraviTrax XXL Starter Set",
+   "category": "Toys & Kids",
+   "price": 90.99,
+   "was": 129.99,
+   "note": "Big marble-run STEM kit at 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BSXCKTYC?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lego-botanicals-mini-bonsai-trees",
+   "title": "LEGO Botanicals Mini Bonsai Trees",
+   "category": "Toys & Kids",
+   "price": 44.99,
+   "was": 64.99,
+   "note": "Popular adult LEGO display set for about 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DRW8G3WK?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lego-creator-3-in-1-t-rex",
+   "title": "LEGO Creator 3-in-1 T. rex",
+   "category": "Toys & Kids",
+   "price": 41.99,
+   "was": 59.99,
+   "note": "Three-in-one dinosaur build for $18 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CV21CH75?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lego-star-wars-mandalorian-s-n-1-starfighter",
+   "title": "LEGO Star Wars Mandalorian's N-1 Starfighter",
+   "category": "Toys & Kids",
+   "price": 41.99,
+   "was": 59.99,
+   "note": "Mando's starfighter with Grogu figure at 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B09Q9848S5?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lego-icons-dried-flower-centerpiece",
+   "title": "LEGO Icons Dried Flower Centerpiece",
+   "category": "Toys & Kids",
+   "price": 34.99,
+   "was": 49.99,
+   "note": "Giftable LEGO floral build that doubles as decor, $15 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BGQLZ921?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "hot-wheels-monster-trucks-great-bite-rc",
+   "title": "Hot Wheels Monster Trucks Great Bite RC",
+   "category": "Toys & Kids",
+   "price": 41.99,
+   "was": 59.99,
+   "note": "All-terrain RC shark monster truck for 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0G1VH82W7?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "mattel-disney-pixar-wall-e-remote-control-robot",
+   "title": "Mattel Disney Pixar WALL-E Remote-Control Robot",
+   "category": "Toys & Kids",
+   "price": 41.99,
+   "was": 59.99,
+   "note": "Interactive WALL-E robot with lights and sounds, 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B07YT7JK7Q?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "ravensburger-harry-potter-hogwarts-3-000-piece-puzzle",
+   "title": "Ravensburger Harry Potter Hogwarts 3,000-Piece Puzzle",
+   "category": "Toys & Kids",
+   "price": 41.99,
+   "was": 59.99,
+   "note": "Huge Hogwarts puzzle for fans and families, $18 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BSH2PGHT?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "play-doh-48-can-bulk-pack",
+   "title": "Play-Doh 48-Can Bulk Pack",
+   "category": "Toys & Kids",
+   "price": 22.49,
+   "was": 33.99,
+   "note": "Big Play-Doh haul under 50 cents a can.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B01FAPXB0K?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "3doodler-start-essentials-3d-pen-set",
+   "title": "3Doodler Start+ Essentials 3D Pen Set",
+   "category": "Toys & Kids",
+   "price": 39.99,
+   "was": 52.81,
+   "note": "Kid-safe 3D printing pen set for under $40.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B086JQQHPK?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "NBC Select 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "dyson-supersonic-nural-hair-dryer-plum-copper",
+   "title": "Dyson Supersonic Nural Hair Dryer (Plum/Copper)",
+   "category": "Beauty & Personal Care",
+   "price": 349.99,
+   "was": 449.99,
+   "note": "Dyson's newest smart hair dryer at $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HDVZK5KP?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "dyson-airstrait-straightener-plum-copper",
+   "title": "Dyson Airstrait Straightener (Plum/Copper)",
+   "category": "Beauty & Personal Care",
+   "price": 399.99,
+   "was": 499.99,
+   "note": "Wet-to-dry Dyson straightener in a holiday colorway, $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HDW41TZ7?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "laifen-swift-high-speed-hair-dryer",
+   "title": "Laifen Swift High-Speed Hair Dryer",
+   "category": "Beauty & Personal Care",
+   "price": 118.99,
+   "was": 169.99,
+   "note": "Dyson-style high-speed dryer at a fraction of the cost.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DX753FZV?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "braun-series-9-pro-electric-shaver",
+   "title": "Braun Series 9 PRO+ Electric Shaver",
+   "category": "Beauty & Personal Care",
+   "price": 349.99,
+   "was": 449.99,
+   "note": "Braun's best foil shaver for $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0FGLF3SDT?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "medicube-booster-pro-facial-device",
+   "title": "Medicube Booster Pro Facial Device",
+   "category": "Beauty & Personal Care",
+   "price": 149.0,
+   "was": 249.0,
+   "note": "Viral at-home skin device at its lowest price of the year.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/dp/B0GS8YKMN3?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "theragun-prime-6th-gen-massage-gun",
+   "title": "Theragun Prime (6th Gen) Massage Gun",
+   "category": "Beauty & Personal Care",
+   "price": 189.99,
+   "was": 329.99,
+   "note": "Therabody's mid-tier massage gun at over 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0FKCJNHWB?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "theragun-mini-3rd-gen-massage-gun",
+   "title": "Theragun Mini (3rd Gen) Massage Gun",
+   "category": "Beauty & Personal Care",
+   "price": 154.99,
+   "was": 219.99,
+   "note": "Pocket-size Theragun for $65 off, an easy gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DV7JN7ZD?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "cerave-pm-facial-moisturizing-lotion",
+   "title": "CeraVe PM Facial Moisturizing Lotion",
+   "category": "Beauty & Personal Care",
+   "price": 13.62,
+   "was": 19.99,
+   "note": "Dermatologist go-to night moisturizer for about a third off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B00365DABC?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "paula-s-choice-2-bha-liquid-exfoliant",
+   "title": "Paula's Choice 2% BHA Liquid Exfoliant",
+   "category": "Beauty & Personal Care",
+   "price": 25.9,
+   "was": 37.0,
+   "note": "Best-selling pore exfoliant at 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B00949CTQQ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lancome-lash-idole-volumizing-mascara",
+   "title": "Lancome Lash Idole Volumizing Mascara",
+   "category": "Beauty & Personal Care",
+   "price": 14.0,
+   "was": 30.0,
+   "note": "Prestige mascara at more than half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B08TPCHYLW?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "murad-retinol-youth-renewal-night-cream",
+   "title": "Murad Retinol Youth Renewal Night Cream",
+   "category": "Beauty & Personal Care",
+   "price": 47.0,
+   "was": 94.0,
+   "note": "Half off a pricey retinol night cream.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B081ZQH733?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "chi-original-ceramic-flat-iron",
+   "title": "CHI Original Ceramic Flat Iron",
+   "category": "Beauty & Personal Care",
+   "price": 36.56,
+   "was": 100.0,
+   "note": "Classic salon flat iron at roughly 63% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0009V1YR8?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "revlon-one-step-volumizer-plus-hair-dryer-brush",
+   "title": "Revlon One-Step Volumizer Plus Hair Dryer Brush",
+   "category": "Beauty & Personal Care",
+   "price": 37.71,
+   "was": 65.99,
+   "note": "Blowout brush favorite for over 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B096SVJZSW?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ugg-classic-micro-boots-women-s",
+   "title": "UGG Classic Micro Boots (Women's)",
+   "category": "Fashion",
+   "price": 98.0,
+   "was": 140.0,
+   "note": "Rare 30% off the short UGG Classic boot.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0G3M7N3TH?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "marc-jacobs-the-400-bleeckerina-flat-women-s",
+   "title": "Marc Jacobs The 400 Bleeckerina Flat (Women's)",
+   "category": "Fashion",
+   "price": 102.6,
+   "was": 228.0,
+   "note": "Designer ballet flat at 55% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GJ77Z6NV?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "lands-end-cashtouch-travel-wrap-women-s",
+   "title": "Lands' End CashTouch Travel Wrap (Women's)",
+   "category": "Fashion",
+   "price": 30.22,
+   "was": 54.95,
+   "note": "Soft travel wrap at 45% off, a good gift for flyers.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HG3T249P?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "osprey-daylite-expandable-26-6-travel-pack",
+   "title": "Osprey Daylite Expandable 26+6 Travel Pack",
+   "category": "Luggage & Travel",
+   "price": 71.5,
+   "was": 110.0,
+   "note": "Expandable Osprey daypack built for carry-on travel, 35% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DSQX5N64?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "osprey-sojourn-25-60l-wheeled-travel-pack",
+   "title": "Osprey Sojourn 25/60L Wheeled Travel Pack",
+   "category": "Luggage & Travel",
+   "price": 314.95,
+   "was": 450.0,
+   "note": "Rugged rolling pack that converts to backpack, $135 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CBSVGXY6?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "thule-subterra-2-carry-on-spinner",
+   "title": "Thule Subterra 2 Carry-On Spinner",
+   "category": "Luggage & Travel",
+   "price": 298.95,
+   "was": 399.95,
+   "note": "Premium Thule carry-on for $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HBTNCS34?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "carhartt-utility-120l-duffel",
+   "title": "Carhartt Utility 120L Duffel",
+   "category": "Luggage & Travel",
+   "price": 97.49,
+   "was": 129.99,
+   "note": "Huge tough-built Carhartt duffel for 25% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CVSF5DBH?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "dewalt-20v-max-3-tool-brushless-combo-kit",
+   "title": "DeWalt 20V MAX 3-Tool Brushless Combo Kit",
+   "category": "Tools & Outdoor",
+   "price": 269.0,
+   "was": 399.0,
+   "note": "Drill, impact driver and more from DeWalt for $130 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GR1K5HK1?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "dewalt-20v-max-impact-driver-kit",
+   "title": "DeWalt 20V MAX Impact Driver Kit",
+   "category": "Tools & Outdoor",
+   "price": 98.99,
+   "was": 179.0,
+   "note": "DeWalt impact driver with battery for about 45% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BV17VLYG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "big discount"
+  },
+  {
+   "id": "bosch-18v-mid-torque-impact-wrench-kit",
+   "title": "Bosch 18V Mid-Torque Impact Wrench Kit",
+   "category": "Tools & Outdoor",
+   "price": 299.0,
+   "was": 449.0,
+   "note": "Pro-grade Bosch impact wrench kit at $150 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BNK51GR1?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "metabo-hpt-18-gauge-brad-nailer",
+   "title": "Metabo HPT 18-Gauge Brad Nailer",
+   "category": "Tools & Outdoor",
+   "price": 84.86,
+   "was": 159.0,
+   "note": "Pneumatic brad nailer at nearly half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B07WMTL95Y?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "fluke-87v-max-multimeter",
+   "title": "Fluke 87V MAX Multimeter",
+   "category": "Tools & Outdoor",
+   "price": 438.25,
+   "was": 654.99,
+   "note": "Electricians' rugged multimeter for over $200 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B07YQSBJSB?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "gearwrench-49-piece-torx-bit-socket-set",
+   "title": "GearWrench 49-Piece Torx Bit Socket Set",
+   "category": "Tools & Outdoor",
+   "price": 78.32,
+   "was": 129.99,
+   "note": "Complete Torx socket set for 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B09CHDRLC5?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "irwin-vise-grip-12-locking-pliers",
+   "title": "Irwin Vise-Grip 12\" Locking Pliers",
+   "category": "Tools & Outdoor",
+   "price": 16.99,
+   "was": 32.68,
+   "note": "Shop-staple locking pliers at about half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B00004SBB1?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "streamlight-microstream-pocket-flashlight",
+   "title": "Streamlight MicroStream Pocket Flashlight",
+   "category": "Tools & Outdoor",
+   "price": 15.18,
+   "was": 38.89,
+   "note": "Tiny pocket flashlight at over 60% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B00143JZ08?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "fanttik-e1-max-electric-screwdriver",
+   "title": "Fanttik E1 Max Electric Screwdriver",
+   "category": "Tools & Outdoor",
+   "price": 37.97,
+   "was": 59.97,
+   "note": "Precision electric screwdriver kit for under $40.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BGWRWRX2?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "TODAY Shop 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "yeti-roadie-48-wheeled-cooler",
+   "title": "YETI Roadie 48 Wheeled Cooler",
+   "category": "Tools & Outdoor",
+   "price": 297.5,
+   "was": 425.0,
+   "note": "Wheeled YETI cooler for $127 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0H3CMTTRJ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "yeti-tundra-45-hard-cooler",
+   "title": "YETI Tundra 45 Hard Cooler",
+   "category": "Tools & Outdoor",
+   "price": 243.75,
+   "was": 325.0,
+   "note": "YETI's best-known hard cooler at 25% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DTKTCPVS?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "yeti-hopper-m20-backpack-cooler",
+   "title": "YETI Hopper M20 Backpack Cooler",
+   "category": "Tools & Outdoor",
+   "price": 227.5,
+   "was": 325.0,
+   "note": "Leakproof soft backpack cooler for about $100 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0H3C5BWFX?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "traeger-pro-22-pellet-grill",
+   "title": "Traeger Pro 22 Pellet Grill",
+   "category": "Tools & Outdoor",
+   "price": 389.0,
+   "was": 549.95,
+   "note": "Traeger's popular pellet smoker for $160 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B07GLK1NC2?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "coleman-roadtrip-285-portable-propane-grill",
+   "title": "Coleman RoadTrip 285 Portable Propane Grill",
+   "category": "Tools & Outdoor",
+   "price": 269.99,
+   "was": 424.99,
+   "note": "Folding tailgate grill at about 36% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B07BLHBV33?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "kindle-scribe-colorsoft",
+   "title": "Kindle Scribe Colorsoft",
+   "category": "Amazon Devices",
+   "price": 479.99,
+   "was": 679.99,
+   "note": "First color Kindle Scribe at $200 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0FC1WNVMX?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "amazon-echo-show-21",
+   "title": "Amazon Echo Show 21",
+   "category": "Amazon Devices",
+   "price": 349.99,
+   "was": 499.99,
+   "note": "Amazon's largest smart display for $150 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CDWWS127?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "oura-ring-4-previous-gen",
+   "title": "Oura Ring 4 (Previous Gen)",
+   "category": "Phones & Wearables",
+   "price": 249.0,
+   "was": 349.0,
+   "note": "Last-gen Oura ring matching its best price ever.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0D9WW3YND?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "samsung-65-s90h-oled-4k-tv",
+   "title": "Samsung 65\" S90H OLED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 1399.99,
+   "was": 1899.99,
+   "note": "Best Amazon price editors have seen on this 2026 OLED.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GPY4Y2VF?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Forbes Vetted 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "hisense-75-u6sf-pro-mini-led-4k-tv",
+   "title": "Hisense 75\" U6SF Pro Mini-LED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 699.0,
+   "was": 1399.0,
+   "note": "Big 75-inch mini-LED TV at half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Hisense+75%22+U6SF+Pro+Mini-LED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "tcl-75-qm8l-sqd-mini-led-4k-tv",
+   "title": "TCL 75\" QM8L SQD Mini-LED 4K TV",
+   "category": "TVs & Streaming",
+   "price": 1397.0,
+   "was": 2999.0,
+   "note": "TCL's top mini-LED in 75 inches for over 50% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=TCL+75%22+QM8L+SQD+Mini-LED+4K+TV&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Tom's Guide 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "garmin-forerunner-965-running-watch",
+   "title": "Garmin Forerunner 965 Running Watch",
+   "category": "Phones & Wearables",
+   "price": 449.99,
+   "was": 599.99,
+   "note": "AMOLED training watch for serious runners, $150 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BS1XZY7T?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "PopSci 11/20",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "amazon-echo-hub-8-smart-home-control-panel",
+   "title": "Amazon Echo Hub 8\" Smart Home Control Panel",
+   "category": "Amazon Devices",
+   "price": 75.0,
+   "was": 180.0,
+   "note": "Under half price for Amazon's wall-mountable smart home dashboard.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BCR7M9KX?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "amazon-echo-dot-max-2025",
+   "title": "Amazon Echo Dot Max (2025)",
+   "category": "Amazon Devices",
+   "price": 50.0,
+   "was": 120.0,
+   "note": "Newest, loudest Echo Dot for well under half its list price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Amazon+Echo+Dot+Max+%282025%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "ring-indoor-cam-2k-4-pack",
+   "title": "Ring Indoor Cam 2K (4-pack)",
+   "category": "Smart Home & Security",
+   "price": 90.0,
+   "was": 240.0,
+   "note": "Four 2K indoor cameras for about $22 each, a 60%+ cut.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ring+Indoor+Cam+2K+%284-pack%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "apple-airtag-2nd-gen-1-pack",
+   "title": "Apple AirTag (2nd Gen, 1-pack)",
+   "category": "Apple",
+   "price": 18.0,
+   "was": 29.0,
+   "note": "The new AirTag for $18, well under its $29 list price.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GJTFXNRX?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "DansDeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "apple-ipad-mini-a17-pro-128gb",
+   "title": "Apple iPad mini (A17 Pro, 128GB)",
+   "category": "Apple",
+   "price": 449.0,
+   "was": 599.0,
+   "note": "$150 off the compact iPad mini with Apple Intelligence support.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+iPad+mini+%28A17+Pro%2C+128GB%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "sony-ult-field-3-bluetooth-speaker",
+   "title": "Sony ULT Field 3 Bluetooth Speaker",
+   "category": "Headphones & Audio",
+   "price": 128.0,
+   "was": 208.0,
+   "note": "Rugged, bass-heavy Sony speaker at roughly 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DYBNC4SG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "DansDeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "beats-studio-buds",
+   "title": "Beats Studio Buds+",
+   "category": "Headphones & Audio",
+   "price": 89.95,
+   "was": 169.99,
+   "note": "Nearly half off Beats' ANC earbuds that work well with iPhone and Android.",
+   "condition": "Price varies by color",
+   "url": "https://www.amazon.com/s?k=Beats+Studio+Buds%2B&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "cmf-by-nothing-buds-2-hybrid-anc",
+   "title": "CMF by Nothing Buds 2 (Hybrid ANC)",
+   "category": "Headphones & Audio",
+   "price": 22.0,
+   "was": 49.0,
+   "note": "Noise-cancelling earbuds for $22 is about as cheap as decent ANC gets.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=CMF+by+Nothing+Buds+2+%28Hybrid+ANC%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "technics-reference-class-wireless-earbuds",
+   "title": "Technics Reference Class Wireless Earbuds",
+   "category": "Headphones & Audio",
+   "price": 143.0,
+   "was": 300.0,
+   "note": "Premium audiophile earbuds for less than half their usual price.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/s?k=Technics+Reference+Class+Wireless+Earbuds&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-49-odyssey-oled-g9-g93sc-240hz-monitor",
+   "title": "Samsung 49\" Odyssey OLED G9 (G93SC) 240Hz Monitor",
+   "category": "Computers & Tablets",
+   "price": 855.0,
+   "was": 1600.0,
+   "note": "Super-ultrawide QD-OLED for under $900, nearly half its list price.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0CDQMQQS2?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "msi-mag-272qp-27-qd-oled-240hz-monitor",
+   "title": "MSI MAG 272QP 27\" QD-OLED 240Hz Monitor",
+   "category": "Computers & Tablets",
+   "price": 300.0,
+   "was": 400.0,
+   "note": "A 1440p QD-OLED gaming monitor for $300 is a rare price for OLED.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=MSI+MAG+272QP+27%22+QD-OLED+240Hz+Monitor&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "acemagic-mini-pc-ryzen-7-7735hs-24gb-ram",
+   "title": "ACEMAGIC Mini PC (Ryzen 7 7735HS, 24GB RAM)",
+   "category": "Computers & Tablets",
+   "price": 426.0,
+   "was": 669.0,
+   "note": "A capable compact desktop for over $240 off.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/s?k=ACEMAGIC+Mini+PC+%28Ryzen+7+7735HS%2C+24GB+RAM%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "sabrent-voltik-252w-8-port-usb-charging-station",
+   "title": "Sabrent Voltik 252W 8-Port USB Charging Station",
+   "category": "Chargers & Accessories",
+   "price": 60.0,
+   "was": 89.0,
+   "note": "Charges eight devices at once, with a live power display.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DPJNFKGM?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "anker-prime-100w-3-port-gan-charger",
+   "title": "Anker Prime 100W 3-Port GaN Charger",
+   "category": "Chargers & Accessories",
+   "price": 40.0,
+   "was": 70.0,
+   "note": "Laptop-capable 100W Anker brick for over 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Anker+Prime+100W+3-Port+GaN+Charger&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "baseus-picogo-5-000mah-magsafe-power-bank",
+   "title": "Baseus Picogo 5,000mAh MagSafe Power Bank",
+   "category": "Chargers & Accessories",
+   "price": 12.0,
+   "was": 30.0,
+   "note": "Slim magnetic iPhone battery for $12, 60% under list.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Baseus+Picogo+5%2C000mAh+MagSafe+Power+Bank&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "baseus-picogo-10-000mah-qi2-magsafe-power-bank",
+   "title": "Baseus Picogo 10,000mAh Qi2 MagSafe Power Bank",
+   "category": "Chargers & Accessories",
+   "price": 26.0,
+   "was": 70.0,
+   "note": "Qi2 15W magnetic battery pack for well under half price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Baseus+Picogo+10%2C000mAh+Qi2+MagSafe+Power+Bank&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsung-galaxy-watch-8",
+   "title": "Samsung Galaxy Watch 8",
+   "category": "Phones & Wearables",
+   "price": 200.0,
+   "was": 300.0,
+   "note": "Hot community pick: $100 off with a 2-year warranty included.",
+   "condition": "Price varies by size and color",
+   "url": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch+8&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "motorola-moto-g-stylus-5g-2025-256gb-unlocked",
+   "title": "Motorola Moto G Stylus 5G (2025, 256GB, Unlocked)",
+   "category": "Phones & Wearables",
+   "price": 200.0,
+   "was": 400.0,
+   "note": "Half off an unlocked stylus phone; big comment thread with buyers.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Motorola+Moto+G+Stylus+5G+%282025%2C+256GB%2C+Unlocked%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "motorola-edge-2025-256gb-unlocked",
+   "title": "Motorola Edge 2025 (256GB, Unlocked)",
+   "category": "Phones & Wearables",
+   "price": 300.0,
+   "was": 550.0,
+   "note": "$250 off an unlocked midrange phone with a curved OLED display.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Motorola+Edge+2025+%28256GB%2C+Unlocked%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "amazfit-active-max-48mm-gps-smartwatch",
+   "title": "Amazfit Active Max 48mm GPS Smartwatch",
+   "category": "Phones & Wearables",
+   "price": 119.0,
+   "was": 170.0,
+   "note": "Big AMOLED GPS watch with long battery life for $50 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Amazfit+Active+Max+48mm+GPS+Smartwatch&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "eufy-solocam-e42-4k-solar-security-camera",
+   "title": "eufy SoloCam E42 4K Solar Security Camera",
+   "category": "Smart Home & Security",
+   "price": 100.0,
+   "was": 180.0,
+   "note": "4K solar camera with no monthly fee, popular with the community.",
+   "condition": "1-camera price",
+   "url": "https://www.amazon.com/s?k=eufy+SoloCam+E42+4K+Solar+Security+Camera&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "eufy-video-smart-lock-e330",
+   "title": "eufy Video Smart Lock E330",
+   "category": "Smart Home & Security",
+   "price": 190.0,
+   "was": 300.0,
+   "note": "Smart lock with a built-in doorbell camera for $110 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=eufy+Video+Smart+Lock+E330&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "eufy-security-e340-2k-video-doorbell",
+   "title": "eufy Security E340 2K Video Doorbell",
+   "category": "Smart Home & Security",
+   "price": 100.0,
+   "was": 170.0,
+   "note": "Dual-camera doorbell with local storage at about 40% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=eufy+Security+E340+2K+Video+Doorbell&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "philips-hue-flux-10-smart-led-strip-kit",
+   "title": "Philips Hue Flux 10' Smart LED Strip Kit",
+   "category": "Smart Home & Security",
+   "price": 41.0,
+   "was": 80.0,
+   "note": "Hue's newest lightstrip at roughly half price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Philips+Hue+Flux+10%27+Smart+LED+Strip+Kit&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "poofzy-100-rgbic-outdoor-eave-lights",
+   "title": "POOFZY 100' RGBIC Outdoor Eave Lights",
+   "category": "Smart Home & Security",
+   "price": 48.0,
+   "was": 170.0,
+   "note": "Permanent-style color-changing holiday lights for 70% off.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/s?k=POOFZY+100%27+RGBIC+Outdoor+Eave+Lights&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "roborock-qrevo-2-pro-robot-vacuum-mop",
+   "title": "Roborock Qrevo 2 Pro Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 450.0,
+   "was": 819.0,
+   "note": "Among the hottest vacuum deals this week, at about 45% off.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/s?k=Roborock+Qrevo+2+Pro+Robot+Vacuum+%26+Mop&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "dreame-aqua10-ultra-roller-robot-vacuum-mop",
+   "title": "Dreame Aqua10 Ultra Roller Robot Vacuum & Mop",
+   "category": "Home & Kitchen",
+   "price": 500.0,
+   "was": 900.0,
+   "note": "Roller-mop flagship robot for $400 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Dreame+Aqua10+Ultra+Roller+Robot+Vacuum+%26+Mop&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "roborock-h60-hub-pro-b-cordless-stick-vacuum",
+   "title": "Roborock H60 Hub Pro-B Cordless Stick Vacuum",
+   "category": "Home & Kitchen",
+   "price": 170.0,
+   "was": 350.0,
+   "note": "Stick vac with an auto-empty dock for half its list price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Roborock+H60+Hub+Pro-B+Cordless+Stick+Vacuum&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "bissell-iconpet-turbo-cordless-vacuum",
+   "title": "BISSELL ICONpet Turbo Cordless Vacuum",
+   "category": "Home & Kitchen",
+   "price": 99.99,
+   "was": 188.99,
+   "note": "Pet-hair stick vacuum for about 47% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B09M93CZYG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "DansDeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "shark-stainstriker-carpet-upholstery-cleaner",
+   "title": "Shark StainStriker Carpet & Upholstery Cleaner",
+   "category": "Home & Kitchen",
+   "price": 94.99,
+   "was": 149.99,
+   "note": "Portable spot cleaner for pet and kid messes, $55 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GYQBS7XZ?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "DansDeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "ninja-double-oven-pro-smart-xl-12-in-1",
+   "title": "Ninja Double Oven Pro Smart XL 12-in-1",
+   "category": "Home & Kitchen",
+   "price": 250.0,
+   "was": 380.0,
+   "note": "Back at the lowest price this oven-and-air-fryer combo has hit.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ninja+Double+Oven+Pro+Smart+XL+12-in-1&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "ninja-fit-compact-personal-blender-700w",
+   "title": "Ninja Fit Compact Personal Blender (700W)",
+   "category": "Home & Kitchen",
+   "price": 45.0,
+   "was": 70.0,
+   "note": "Simple single-serve Ninja blender for smoothies, $25 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Ninja+Fit+Compact+Personal+Blender+%28700W%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "chef-iq-sense-smart-meat-thermometer-5-probes",
+   "title": "CHEF iQ Sense Smart Meat Thermometer (5 probes)",
+   "category": "Home & Kitchen",
+   "price": 56.99,
+   "was": 99.99,
+   "note": "Five wireless probes for about $43 off, a good holiday-cooking gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DZF2ZM19?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "DansDeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "stanley-quencher-h2-0-flowstate-64-oz",
+   "title": "Stanley Quencher H2.0 FlowState 64 oz",
+   "category": "Home & Kitchen",
+   "price": 30.0,
+   "was": 60.0,
+   "note": "Half off the extra-large Stanley tumbler.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Stanley+Quencher+H2.0+FlowState+64+oz&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "yeti-rambler-16-oz-bottle",
+   "title": "YETI Rambler 16 oz Bottle",
+   "category": "Home & Kitchen",
+   "price": 19.0,
+   "was": 32.0,
+   "note": "A rare discount on YETI's popular 16 oz bottle.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=YETI+Rambler+16+oz+Bottle&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "community hot"
+  },
+  {
+   "id": "zojirushi-16-oz-stainless-vacuum-mug",
+   "title": "Zojirushi 16 oz Stainless Vacuum Mug",
+   "category": "Home & Kitchen",
+   "price": 24.0,
+   "was": 49.0,
+   "note": "Top-rated leakproof travel mug at half price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Zojirushi+16+oz+Stainless+Vacuum+Mug&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "astercook-16-x-12-bamboo-cutting-board",
+   "title": "Astercook 16\" x 12\" Bamboo Cutting Board",
+   "category": "Home & Kitchen",
+   "price": 7.1,
+   "was": 25.0,
+   "note": "A large bamboo cutting board for about $7.",
+   "condition": "Prime member price",
+   "url": "https://www.amazon.com/s?k=Astercook+16%22+x+12%22+Bamboo+Cutting+Board&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "philips-sonicare-5950-electric-toothbrush",
+   "title": "Philips Sonicare 5950 Electric Toothbrush",
+   "category": "Beauty & Personal Care",
+   "price": 60.0,
+   "was": 110.0,
+   "note": "Sonicare with two brush heads for nearly half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Philips+Sonicare+5950+Electric+Toothbrush&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "emporio-armani-stronger-with-you-parfum-3-4-oz",
+   "title": "Emporio Armani Stronger With You Parfum (3.4 oz)",
+   "category": "Beauty & Personal Care",
+   "price": 87.0,
+   "was": 145.0,
+   "note": "Popular men's fragrance gift at $58 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Emporio+Armani+Stronger+With+You+Parfum+%283.4+oz%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "final-fantasy-tactics-the-ivalice-chronicles-ps5",
+   "title": "Final Fantasy Tactics: The Ivalice Chronicles (PS5)",
+   "category": "Video Games",
+   "price": 23.0,
+   "was": 50.0,
+   "note": "Over half off the remastered tactics classic.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Final+Fantasy+Tactics%3A+The+Ivalice+Chronicles+%28PS5%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "community hot"
+  },
+  {
+   "id": "star-wars-outlaws-gold-edition-switch-2",
+   "title": "Star Wars Outlaws Gold Edition (Switch 2)",
+   "category": "Video Games",
+   "price": 15.0,
+   "was": 60.0,
+   "note": "75% off the Gold Edition, which includes the season pass.",
+   "condition": "Game-key card",
+   "url": "https://www.amazon.com/s?k=Star+Wars+Outlaws+Gold+Edition+%28Switch+2%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "dragon-quest-iii-hd-2d-remake-ps5",
+   "title": "Dragon Quest III HD-2D Remake (PS5)",
+   "category": "Video Games",
+   "price": 19.0,
+   "was": 60.0,
+   "note": "Well under a third of list for a celebrated JRPG remake.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Dragon+Quest+III+HD-2D+Remake+%28PS5%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "big discount"
+  },
+  {
+   "id": "xbox-wireless-controller-carbon-black-usb-c-cable",
+   "title": "Xbox Wireless Controller (Carbon Black) + USB-C Cable",
+   "category": "Video Games",
+   "price": 43.0,
+   "was": 65.0,
+   "note": "Official Xbox pad plus cable for about a third off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Xbox+Wireless+Controller+%28Carbon+Black%29+%2B+USB-C+Cable&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "lego-star-wars-jango-fett-helmet",
+   "title": "LEGO Star Wars Jango Fett Helmet",
+   "category": "Toys & Kids",
+   "price": 35.0,
+   "was": 70.0,
+   "note": "Half off a display helmet set, a strong adult-collector gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LEGO+Star+Wars+Jango+Fett+Helmet&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "lego-technic-fast-furious-toyota-supra-mk4",
+   "title": "LEGO Technic Fast & Furious Toyota Supra MK4",
+   "category": "Toys & Kids",
+   "price": 30.0,
+   "was": 60.0,
+   "note": "Half-price Technic car that fans of the movies will like.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LEGO+Technic+Fast+%26+Furious+Toyota+Supra+MK4&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "lego-technic-koenigsegg-jesko-absolut",
+   "title": "LEGO Technic Koenigsegg Jesko Absolut",
+   "category": "Toys & Kids",
+   "price": 25.0,
+   "was": 50.0,
+   "note": "An 801-piece hypercar build for $25.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LEGO+Technic+Koenigsegg+Jesko+Absolut&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "lego-star-wars-mandalorian-grogu-anzellan-starship",
+   "title": "LEGO Star Wars Mandalorian & Grogu Anzellan Starship",
+   "category": "Toys & Kids",
+   "price": 37.0,
+   "was": 75.0,
+   "note": "About half off a newer Mandalorian ship set.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LEGO+Star+Wars+Mandalorian+%26+Grogu+Anzellan+Starship&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "big discount"
+  },
+  {
+   "id": "lego-christmas-table-decoration",
+   "title": "LEGO Christmas Table Decoration",
+   "category": "Toys & Kids",
+   "price": 20.0,
+   "was": 40.0,
+   "note": "Half-price holiday centerpiece build that the community liked.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=LEGO+Christmas+Table+Decoration&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "community hot"
+  },
+  {
+   "id": "catan-board-game-6th-edition",
+   "title": "CATAN Board Game (6th Edition)",
+   "category": "Toys & Kids",
+   "price": 25.0,
+   "was": 50.0,
+   "note": "Half off the classic strategy game, a reliable family gift.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=CATAN+Board+Game+%286th+Edition%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "gooloo-a3-3000a-jump-starter-air-compressor",
+   "title": "GOOLOO A3 3000A Jump Starter & Air Compressor",
+   "category": "Tools & Outdoor",
+   "price": 40.0,
+   "was": 90.0,
+   "note": "Jump starter and tire inflator in one, a smart gift for any driver.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=GOOLOO+A3+3000A+Jump+Starter+%26+Air+Compressor&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": true,
+   "signal": "community hot"
+  },
+  {
+   "id": "viofo-a229-plus-dual-channel-dash-cam",
+   "title": "VIOFO A229 Plus Dual-Channel Dash Cam",
+   "category": "Tools & Outdoor",
+   "price": 160.0,
+   "was": 210.0,
+   "note": "Front-and-rear dash cam that's a long-time community favorite.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=VIOFO+A229+Plus+Dual-Channel+Dash+Cam&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "dji-osmo-action-4-standard-combo",
+   "title": "DJI Osmo Action 4 Standard Combo",
+   "category": "Tools & Outdoor",
+   "price": 179.0,
+   "was": 299.0,
+   "note": "$120 off DJI's well-reviewed 4K action camera.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=DJI+Osmo+Action+4+Standard+Combo&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "community hot"
+  },
+  {
+   "id": "bosch-profactor-18v-12-dual-bevel-sliding-miter-saw",
+   "title": "Bosch PROFACTOR 18V 12\" Dual-Bevel Sliding Miter Saw",
+   "category": "Tools & Outdoor",
+   "price": 329.0,
+   "was": 715.0,
+   "note": "Pro cordless miter saw at more than half off.",
+   "condition": "Tool only, no battery",
+   "url": "https://www.amazon.com/s?k=Bosch+PROFACTOR+18V+12%22+Dual-Bevel+Sliding+Miter+Saw&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "tissot-chemin-des-tourelles-powermatic-80-39mm",
+   "title": "Tissot Chemin des Tourelles Powermatic 80 (39mm)",
+   "category": "Fashion",
+   "price": 475.0,
+   "was": 950.0,
+   "note": "Half off a Swiss automatic dress watch.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Tissot+Chemin+des+Tourelles+Powermatic+80+%2839mm%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/23",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "tissot-seastar-2000-professional-automatic-46mm",
+   "title": "Tissot Seastar 2000 Professional Automatic (46mm)",
+   "category": "Fashion",
+   "price": 674.0,
+   "was": 1225.0,
+   "note": "Swiss dive watch for about 45% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Tissot+Seastar+2000+Professional+Automatic+%2846mm%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/22",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "brooks-ghost-max-3-running-shoes-men-s",
+   "title": "Brooks Ghost Max 3 Running Shoes (Men's)",
+   "category": "Fashion",
+   "price": 89.95,
+   "was": 160.0,
+   "note": "Brooks' max-cushion trainer for about 44% off.",
+   "condition": "Price varies by size and color",
+   "url": "https://www.amazon.com/s?k=Brooks+Ghost+Max+3+Running+Shoes+%28Men%27s%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
+  },
+  {
+   "id": "samsonite-omni-20-hardside-carry-on-spinner",
+   "title": "Samsonite Omni 20\" Hardside Carry-On Spinner",
+   "category": "Luggage & Travel",
+   "price": 63.0,
+   "was": 103.0,
+   "note": "Popular carry-on spinner for about $40 off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Samsonite+Omni+20%22+Hardside+Carry-On+Spinner&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "editor pick"
+  },
+  {
+   "id": "national-tree-co-6-north-valley-spruce-christmas-tree",
+   "title": "National Tree Co. 6' North Valley Spruce Christmas Tree",
+   "category": "Household",
+   "price": 42.0,
+   "was": 112.0,
+   "note": "A 6-foot artificial tree for well under half price.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=National+Tree+Co.+6%27+North+Valley+Spruce+Christmas+Tree&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Slickdeals 11/21",
+   "checked": "2026-11-24T03:05:00Z",
+   "top": false,
+   "signal": "big discount"
   }
  ]
 }
