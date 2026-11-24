@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:05:00Z",
+ "updated": "2026-11-24T04:16:00Z",
  "deals": [
   {
    "id": "fire-tv-stick-4k-plus-wi-fi-6",
@@ -1813,7 +1813,7 @@
    "confirmed": false,
    "source": "TODAY 11/23; Tom's Guide 11/23",
    "checked": "2026-11-24T03:30:00Z",
-   "top": true,
+   "top": false,
    "signal": null
   },
   {
@@ -5985,6 +5985,81 @@
    "checked": "2026-11-24T03:05:00Z",
    "top": false,
    "signal": "big discount"
+  },
+  {
+   "id": "ring-battery-doorbell-2k-newest-model",
+   "title": "Ring Battery Doorbell 2K (newest model)",
+   "category": "Smart Home & Security",
+   "price": 39.99,
+   "was": 99.99,
+   "note": "Ring's newest battery doorbell with 2K video, 60% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Yahoo Shopping",
+   "checked": "2026-11-24T04:16:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "hanes-men-s-ecosmart-pullover-hoodie",
+   "title": "Hanes Men's EcoSmart Pullover Hoodie",
+   "category": "Fashion",
+   "price": 10.0,
+   "was": 27.0,
+   "note": "A basic fleece hoodie for ten dollars.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B071WWYQNG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Yahoo Shopping",
+   "checked": "2026-11-24T04:16:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "ninja-flip-toaster-oven-air-fryer-sp151",
+   "title": "Ninja Flip Toaster Oven & Air Fryer (SP151)",
+   "category": "Home & Kitchen",
+   "price": 150.0,
+   "was": 250.0,
+   "note": "Toaster oven and air fryer that flips up to save counter space.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0D1CXL52G?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Yahoo Shopping",
+   "checked": "2026-11-24T04:16:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "ugg-nita-reversible-throw-blanket",
+   "title": "UGG Nita Reversible Throw Blanket",
+   "category": "Home & Kitchen",
+   "price": 48.0,
+   "was": 72.0,
+   "note": "Soft reversible UGG throw, a third off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0DPJKC2P4?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Yahoo Shopping",
+   "checked": "2026-11-24T04:16:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "dyson-v9-motorbar-cordless-vacuum",
+   "title": "Dyson V9 Motorbar Cordless Vacuum",
+   "category": "Household",
+   "price": 269.95,
+   "was": 599.99,
+   "note": "Dyson cordless stick vacuum at more than half off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "Yahoo Shopping",
+   "checked": "2026-11-24T04:16:00Z",
+   "top": true,
+   "signal": null
   }
  ]
 }
