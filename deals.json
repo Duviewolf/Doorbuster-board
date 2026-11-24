@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:19:00Z",
+ "updated": "2026-11-24T20:17:00Z",
  "deals": [
   {
    "id": "fire-tv-stick-4k-plus-wi-fi-6",
@@ -29,7 +29,7 @@
    "source": "9to5Toys 11/23",
    "checked": "2026-11-24T03:30:00Z",
    "top": true,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "fire-tv-stick-4k-select",
@@ -164,7 +164,7 @@
    "source": "9to5Toys 11/23",
    "checked": "2026-11-24T03:30:00Z",
    "top": false,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "amazon-alexa-tablet-11-64gb",
@@ -377,21 +377,6 @@
    "signal": null
   },
   {
-   "id": "apple-airpods-pro-3",
-   "title": "Apple AirPods Pro 3",
-   "category": "Apple",
-   "price": 149.0,
-   "was": 249.0,
-   "note": "$100 off Apple's newest earbuds, matching the lowest price reported.",
-   "condition": null,
-   "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=smartkosher-20",
-   "confirmed": false,
-   "source": "NBC Select 11/23; Tom's Guide 11/23; 9to5Toys 11/23; TODAY 11/23",
-   "checked": "2026-11-24T03:30:00Z",
-   "top": true,
-   "signal": "all-time low"
-  },
-  {
    "id": "apple-airpods-max-2",
    "title": "Apple AirPods Max 2",
    "category": "Apple",
@@ -434,7 +419,7 @@
    "source": "TODAY 11/23; 9to5Toys 11/23",
    "checked": "2026-11-24T03:30:00Z",
    "top": false,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "apple-watch-series-12-42mm",
@@ -449,7 +434,7 @@
    "source": "9to5Toys 11/23; Tom's Guide 11/23",
    "checked": "2026-11-24T03:30:00Z",
    "top": false,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "apple-watch-se-3",
@@ -2075,14 +2060,14 @@
    "id": "beats-studio-pro-over-ear-headphones",
    "title": "Beats Studio Pro Over-Ear Headphones",
    "category": "Headphones & Audio",
-   "price": 149.95,
+   "price": 139.0,
    "was": 299.99,
-   "note": "Half off Beats' noise-cancelling over-ears.",
+   "note": "Down to $139.00 from $299.99, about 54% off.",
    "condition": null,
    "url": "https://www.amazon.com/dp/B0C8PR4W22?tag=smartkosher-20",
    "confirmed": false,
-   "source": "PopSci 11/20",
-   "checked": "2026-11-24T03:30:00Z",
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
    "top": false,
    "signal": null
   },
@@ -3073,7 +3058,7 @@
    "confirmed": false,
    "source": "9to5Toys 11/23",
    "checked": "2026-11-24T03:05:00Z",
-   "top": false,
+   "top": true,
    "signal": "all-time low"
   },
   {
@@ -3103,7 +3088,7 @@
    "confirmed": false,
    "source": "TechRadar 11/23",
    "checked": "2026-11-24T03:05:00Z",
-   "top": true,
+   "top": false,
    "signal": "all-time low"
   },
   {
@@ -3554,7 +3539,7 @@
    "source": "TechRadar 11/23",
    "checked": "2026-11-24T03:05:00Z",
    "top": false,
-   "signal": "big discount"
+   "signal": "all-time low"
   },
   {
    "id": "sennheiser-momentum-true-wireless-3",
@@ -4828,7 +4813,7 @@
    "confirmed": false,
    "source": "PopSci 11/20",
    "checked": "2026-11-24T03:05:00Z",
-   "top": true,
+   "top": false,
    "signal": "big discount"
   },
   {
@@ -6065,31 +6050,31 @@
    "id": "bose-quietcomfort-headphones-2nd-gen",
    "title": "Bose QuietComfort Headphones (2nd Gen)",
    "category": "Headphones & Audio",
-   "price": 199.0,
+   "price": 167.0,
    "was": 359.0,
-   "note": "Down to $199.00 from $359.00, about 45% off.",
+   "note": "Its lowest price yet, about 53% off.",
    "condition": null,
    "url": "https://www.amazon.com/dp/B0GXW4L6TX?tag=smartkosher-20",
    "confirmed": false,
    "source": "refresh",
-   "checked": "2026-11-24T12:19:00Z",
-   "top": false,
-   "signal": null
+   "checked": "2026-11-24T20:17:00Z",
+   "top": true,
+   "signal": "all-time low"
   },
   {
    "id": "amazon-alexa-tablet-12-pro",
    "title": "Amazon Alexa Tablet 12 Pro",
    "category": "Amazon Devices",
-   "price": 449.99,
+   "price": 400.0,
    "was": 549.99,
-   "note": "Down to $449.99 from $549.99, about 18% off.",
+   "note": "Its lowest price yet, about 20% off.",
    "condition": null,
    "url": "https://www.amazon.com/dp/B0FMS8C99W?tag=smartkosher-20",
    "confirmed": false,
    "source": "refresh",
-   "checked": "2026-11-24T12:19:00Z",
+   "checked": "2026-11-24T20:17:00Z",
    "top": false,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "amazon-kindle-scribe-64gb",
@@ -6433,6 +6418,216 @@
    "confirmed": false,
    "source": "refresh",
    "checked": "2026-11-24T12:19:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-airtag-4-pack",
+   "title": "Apple AirTag (4-pack)",
+   "category": "Apple",
+   "price": 79.0,
+   "was": 99.0,
+   "note": "Down to $79.00 from $99.00, about 20% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+AirTag+%284-pack%29&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-macbook-air-13-inch-m5-16gb-512gb",
+   "title": "Apple MacBook Air 13-inch M5 16GB/512GB",
+   "category": "Apple",
+   "price": 1049.0,
+   "was": 1299.0,
+   "note": "Down to $1,049.00 from $1,299.00, about 19% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+MacBook+Air+13-inch+M5+16GB%2F512GB&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-macbook-pro-14-inch-m6-16gb-1tb",
+   "title": "Apple MacBook Pro 14-inch M6 16GB/1TB",
+   "category": "Apple",
+   "price": 1799.0,
+   "was": 1999.0,
+   "note": "Its lowest price yet, about 10% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+MacBook+Pro+14-inch+M6+16GB%2F1TB&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": "all-time low"
+  },
+  {
+   "id": "apple-ipad-mini-7",
+   "title": "Apple iPad mini 7",
+   "category": "Apple",
+   "price": 499.0,
+   "was": 599.0,
+   "note": "Down to $499.00 from $599.00, about 17% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+iPad+mini+7&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-studio-display",
+   "title": "Apple Studio Display",
+   "category": "Apple",
+   "price": 1399.0,
+   "was": 1599.0,
+   "note": "Down to $1,399.00 from $1,599.00, about 13% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Studio+Display&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "apple-mac-mini-m6",
+   "title": "Apple Mac mini M6",
+   "category": "Apple",
+   "price": 779.0,
+   "was": 899.0,
+   "note": "Down to $779.00 from $899.00, about 13% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Apple+Mac+mini+M6&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "anker-160w-3-port-prime-charger",
+   "title": "Anker 160W 3-Port Prime Charger",
+   "category": "Chargers & Accessories",
+   "price": 100.0,
+   "was": 150.0,
+   "note": "Down to $100.00 from $150.00, about 33% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0F9NK4M7Q?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "belkin-2-in-1-25w-magnetic-charging-station",
+   "title": "Belkin 2-in-1 25W Magnetic Charging Station",
+   "category": "Chargers & Accessories",
+   "price": 70.0,
+   "was": 100.0,
+   "note": "Down to $70.00 from $100.00, about 30% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0GMT9PNMK?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "logitech-mx-keys-s-mac-wireless-keyboard",
+   "title": "Logitech MX Keys S Mac Wireless Keyboard",
+   "category": "Computers & Tablets",
+   "price": 104.0,
+   "was": 129.0,
+   "note": "Down to $104.00 from $129.00, about 19% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0BXX499PC?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "satechi-cubedock-thunderbolt-5-dock",
+   "title": "Satechi CubeDock Thunderbolt 5 Dock",
+   "category": "Computers & Tablets",
+   "price": 319.0,
+   "was": 399.0,
+   "note": "Down to $319.00 from $399.00, about 20% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Satechi+CubeDock+Thunderbolt+5+Dock&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "playstation-dualsense-edge-wireless-controller",
+   "title": "PlayStation DualSense Edge Wireless Controller",
+   "category": "Video Games",
+   "price": 170.0,
+   "was": 200.0,
+   "note": "Down to $170.00 from $200.00, about 15% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=PlayStation+DualSense+Edge+Wireless+Controller&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "amazon-smart-plug",
+   "title": "Amazon Smart Plug",
+   "category": "Smart Home & Security",
+   "price": 14.0,
+   "was": 24.0,
+   "note": "Down to $14.00 from $24.00, about 42% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Amazon+Smart+Plug&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": false,
+   "signal": null
+  },
+  {
+   "id": "new-balance-ellipse-running-shoes",
+   "title": "New Balance Ellipse Running Shoes",
+   "category": "Fashion",
+   "price": 93.0,
+   "was": 144.0,
+   "note": "Its lowest price yet, about 35% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=New+Balance+Ellipse+Running+Shoes&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
+   "top": true,
+   "signal": "all-time low"
+  },
+  {
+   "id": "oral-b-io9-electric-toothbrush",
+   "title": "Oral-B iO9 Electric Toothbrush",
+   "category": "Beauty & Personal Care",
+   "price": 199.0,
+   "was": 379.0,
+   "note": "Down to $199.00 from $379.00, about 47% off.",
+   "condition": null,
+   "url": "https://www.amazon.com/s?k=Oral-B+iO9+Electric+Toothbrush&tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-24T20:17:00Z",
    "top": false,
    "signal": null
   }
