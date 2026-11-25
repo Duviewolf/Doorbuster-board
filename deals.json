@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:17:00Z",
+ "updated": "2026-11-25T12:15:00Z",
  "deals": [
   {
    "id": "fire-tv-stick-4k-plus-wi-fi-6",
@@ -329,7 +329,7 @@
    "source": "NBC Select 11/23",
    "checked": "2026-11-24T03:30:00Z",
    "top": false,
-   "signal": null
+   "signal": "all-time low"
   },
   {
    "id": "aura-10-inch-digital-picture-frame",
@@ -3058,7 +3058,7 @@
    "confirmed": false,
    "source": "9to5Toys 11/23",
    "checked": "2026-11-24T03:05:00Z",
-   "top": true,
+   "top": false,
    "signal": "all-time low"
   },
   {
@@ -6630,6 +6630,21 @@
    "checked": "2026-11-24T20:17:00Z",
    "top": false,
    "signal": null
+  },
+  {
+   "id": "apple-airpods-pro-3",
+   "title": "Apple AirPods Pro 3",
+   "category": "Apple",
+   "price": 149.0,
+   "was": 249.0,
+   "note": "Apple's newest AirPods Pro at their lowest price so far. Stock has been selling out, so check soon.",
+   "condition": null,
+   "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=smartkosher-20",
+   "confirmed": false,
+   "source": "refresh",
+   "checked": "2026-11-25T12:15:00Z",
+   "top": true,
+   "signal": "all-time low"
   }
  ]
 }
